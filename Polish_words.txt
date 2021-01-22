@@ -1,0 +1,4208 @@
+drzewo - дерево
+trawa - трава
+kwiat - квітка
+gwiazda - зірка
+księżyc - Місяць
+noc - ніч
+woda - вода
+świat - світ
+niebo - небо
+plaża - пляж
+słońce - сонце
+chmura - хмара
+rzeka - річка
+las - ліс
+jezioro - озеро
+góra - гора
+śnieg - сніг
+deszcz - дощ
+wiatr - вітер
+suchy - сухий
+oddychać - дихати
+ogień - вогонь
+człowiek - людина
+powietrze - повітря
+morze - море
+liść - листок
+roślina - рослина
+pustynia - пустеля
+wieś - село
+ocean - океан
+głęboki - глибокий
+mokry - мокрий
+ciepły - теплий
+dziura - діра, яма
+głębokość - глибина
+cień - тінь
+dżungla - джунглі
+ciemno - темно
+pełnia księżyca - повний місяць, повня
+fala - хвиля
+wodospad - водоспад
+biologia - біологія
+owad - комаха
+światło - світло
+wyspa - острів
+piasek - пісок
+ścieżka - стежка
+tęcza - веселка
+ziemia - земля
+Ziemia - Земля
+mgła - туман
+wulkan - вулкан
+lawina - лавина
+błyskawica - блискавка
+burza - буря
+lód - лід
+jaskinia - печера
+huragan - ураган
+kopalnia - шахта
+pora roku - пора року
+rzadki - рідкісний
+atmosfera - атмосфера
+skała - скеля
+płytki - мілкий
+mróz - мороз
+środowisko - середовище
+naturalny - природний
+świecić - світити
+egzotyczny - екзотичний
+pogoda - погода
+gen - ген
+pożar - пожежа
+biolog - біолог
+widok - вигляд
+natura - природа
+przyroda - природа
+ciemność - темрява
+cień - тінь
+patyk - палиця
+kropla - крапля
+dym - дим
+świecić - світити
+równina - рівнина
+wzgórze - узгір'я
+łąka - луг
+susza - засуха
+lawa - лава
+świt - світанок
+wschód słońca - схід сонця
+zachód słońca - захід сонця
+epoka lodowcowa - льодовиковий період
+rozmnażać się - розмножуватись
+klonowanie - клонування
+grawitacja - тяжіння
+szczyt - вершина
+wierzchołek - вершина
+krater - кратер
+wysokość nad poziomem morza - висота над рівнем моря
+staw - ставок
+źródło - витік, джерело
+słona woda - солона вода
+płatek śniegu - сніжинка
+przymrozek - приморозок
+upał - спека
+ciepło - тепло́
+tornado - торнадо
+region - регіон
+podziemny - підземний
+las deszczowy - дощовий ліс
+globalne ocieplenie - глобальне потепління
+efekt cieplarniany - парниковий ефект
+wdychać - вдихати
+ekologia - екологія
+ekolog - еколог
+ekologiczny - екологічний
+równowaga - рівновага
+rasa - раса
+w cieniu - в тіні
+w słońcu - на сонці
+malowniczy - мальовничий
+kwiaciarnia - квітковий магазин
+nasiono - насіння
+gnić - гнити
+źródło energii - джерело енергії
+energia słoneczna - сонячна енергія
+cykl - цикл
+atom - атом
+rozmnażanie - розмноження
+przestrzeń - простір
+bezludny - безлюдний
+trawnik - газон
+powrót do natury - повернення до природи
+krajobraz - краєвид
+horyzont - горизонт
+rzeczywistość - реальність
+klimat - клімат
+klimatyczny - кліматичний
+dno - дно
+płomień - полум'я
+błoto - болото
+grzmot - грім
+ssak - ссавець
+dolina - долина
+wybuch wulkanu - виверження вулкану
+przeprowadzić eksperyment - провести експеримент
+zmierzch - смеркання
+wschodzić - сходити
+ściemniać się - темніти
+męskość - мужність
+długość życia - тривалість життя
+klonować - клонувати
+kontemplować - споглядати
+Gwiazda Polarna - Полярна зоря
+gwiaździsty - зоряний
+zaćmienie - затемнення
+cieśnina - протока
+lodowiec - льодовик
+wąwóz - ущелина
+przepaść - провалля
+płaskowyż - плоскогір'я
+pochyły - похилий
+stromy - крутий
+wybrzeże - узбережжя
+rafa - риф
+brzeg rzeki - берег ріки
+strumyk - струмок
+płynąć - плисти, спливати
+morski - морський
+skalisty - скелястий
+piaszczysty - піщаний
+błotnisty - болотистий
+przejrzysty - прозорий
+pustynny - пустельний
+kropla deszczu - крапля дощу
+przelotny deszcz - прохідний дощ
+zaspa śnieżna - сніговий замет
+grad - град
+szron - іній
+topnieć - танути
+wilgotny - вологий
+oblodzony - обледенілий
+rozpogadzać się - розпогоджуватись
+ciśnienie atmosferyczne - атмосферний тиск
+wylewać - розливатись
+rzadki gatunek - рідкісний вид
+ekosystem - екосистема
+ścinać drzewo - зрубувати дерево
+kwaśny deszcz - кислотний дощ
+zużywać - використовувати
+wysychać - висихати
+trujący - отруйний
+osuszać - осушувати
+grzmieć - гриміти
+egzotyzm - екзотика
+deficyt - дефіцит
+gleba - ґрунт
+drwal - лісоруб
+gnicie - гниття
+mięsożerny - м'ясоїдний
+zbierać pyłek - збирати пилок
+stopiony - плавлений
+zapadać się - осуватися
+promieniowanie - випромінювання
+promieniować - випромінювати
+cykliczny - циклічний
+stok - схил
+dziedziczność - спадковість
+erozja - ерозія
+botanika - ботаніка
+fotosynteza - фотосинтез
+skład - склад
+obszar - територія, галузь
+teren - територія, зона
+energia jądrowa - ядерна енергія
+blask - блиск
+szpiczasty - пікоподібний
+zacieniony - затінений
+pył - прах
+pień - стовбур, пень
+kałuża - калюжа
+trzęsienie ziemi - землетрус
+płatek - пелюстка
+szyszka - шишка
+nieważkość - невагомість
+spadająca gwiazda - зірка, що падає
+półwysep - півострів
+pagórkowaty - горбистий
+odpływ - відплив
+zatoka - затока
+przybrzeżny - прибережний
+rosa - роса
+mżawka - мжичка
+wietrzyk - вітерець
+powiew wiatru - повів вітру, порив вітру
+poryw wiatru - повів вітру, порив вітру
+trąba powietrzna - вихор
+wybuchać - вибухати
+rzadko spotykany - який рідко зустрічається
+dwutlenek węgla - діоксид вуглецю, вуглекислий газ
+krążenie - кровообіг
+nawóz organiczny - органічне добриво
+krzyżowanie - схрещування, схрещування видів
+kopalnia węgla - вугільна шахта
+dziedziczny - спадковий
+zasoby naturalne - природні ресурси
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+deszcz - дощ
+chmura - хмара
+zły - поганий
+zimny - холодний
+śnieg - сніг
+gorący - гарячий
+wiatr - вітер
+parasol - парасоля
+parasolka - парасоля
+padać - падати
+ciepły - теплий
+zimno - холодно
+mróz - мороз
+padać - падати
+słoneczny - сонячний
+chłodny - холодний
+pogoda - погода
+stopień - градус
+gorąco - гаряче
+mgła - туман
+błyskawica - блискавка
+burza - буря
+huragan - ураган
+tęcza - веселка
+kalosze - калоші
+błoto - болото
+wietrzny - вітряний
+wiać - дути
+warunki pogodowe - погодні умови
+prognoza pogody - прогноз погоди
+chłód - холод
+ciepło - тепло́
+upał - спека
+mroźny - морозний
+przymrozek - приморозок
+klimat - клімат
+lać - лити
+śnieżny - сніжний
+płaszcz przeciwdeszczowy - плащ
+kałuża - калюжа
+lodowaty - льодяний
+pochmurny - похмурий
+pojaśnić - посвітліти
+zachmurzony - похмурий
+blask - блиск
+obniżać się - понижуватися
+meteorolog - метеоролог
+grzmieć - гриміти
+grzmot - грім
+prezenter pogody - оглядач погоди
+ciśnienie atmosferyczne - атмосферний тиск
+piorunochron - громовідвід
+duszący - затхлий
+zmoknąć - змокнути
+kalosze - гумові чоботи
+ulewa - злива
+zanosić się na deszcz - збиратись на дощ
+mżyć - мрячити
+przelotny deszcz - прохідний дощ
+zamarzać - замерзати
+deszczowy - дощовий
+ocieplać się - теплішати
+mglisty - туманний
+oblodzony - обледенілий
+szron - іній
+kropla deszczu - крапля дощу
+opad śniegu - опади снігу
+grad - град
+przejaśniać się - прояснятися
+rozpogadzać się - розпогоджуватись
+oziębiać się - охолоджуватись
+deszcz ze śniegiem - сльота
+prognozować - прогнозувати
+zaspa śnieżna - сніговий замет
+zmienny - мінливий
+mżawka - мжичка
+wietrzyk - вітерець
+powiew wiatru - повів вітру, порив вітру
+poryw wiatru - повів вітру, порив вітру
+chmurzyć się - хмаритись
+duszny - спекотний
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+ogień - вогонь
+strażak - пожежник
+pomoc - допомога
+pożar - пожежа
+tragedia - трагедія
+przeżyć - пережити
+katastrofa - катастрофа
+epidemia - епідемія
+huragan - ураган
+lawina - лавина
+wóz strażacki - пожежний автомобіль
+tragiczny - трагічний
+ekologiczny - екологічний
+dewastować - руйнувати
+zniszczenie - винищення
+ratować - рятувати
+susza - засуха
+zaginąć - зникнути
+obrażenie - рана
+powodować - викликати
+zaginiony - зниклий
+śmiertelny - смертельний
+alarm pożarowy - пожежна сирена
+tornado - торнадо
+ocaleć - залишитись живим
+ratunek - порятунок
+otrzymać odszkodowanie - одержати компенсацію
+cały i zdrowy - цілий і здоровий
+ratownik - рятувальник
+katastrofa lotnicza - авіакатастрофа
+trzęsienie ziemi - землетрус
+koło ratunkowe - рятувальне коло
+powódź - повінь
+cyklon - циклон
+wylewać - розливатись
+zagrożenie - загроза
+osoba ocalała - уціліла особа
+odbudować - відбудувати
+katastrofa ekologiczna - катастрофа екологічна
+kamizelka ratunkowa - рятувальний жилет
+wrak - покинутий корпус авто, корабля
+wykoleić się - зійти з рейок
+łódź ratunkowa - рятувальний човен
+zestrzelić samolot - збити літак
+wykolejenie - сходження з рейок
+szczątki - рештки
+trąba powietrzna - вихор
+katastrofa morska - морська катастрофа
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+papier - папір
+fabryka - фабрика
+śmieci - сміття
+zanieczyszczony - забруднений
+środowisko - середовище
+zanieczyszczenie - забруднення
+ozon - озон
+odpady - відходи
+pestycyd - пестицид
+ekologiczny - екологічний
+ekolog - еколог
+ekologia - екологія
+recykling - рециклізація
+smog - смог
+zanieczyszczać - забруднювати
+efekt cieplarniany - парниковий ефект
+segregacja śmieci - сортування сміття
+segregować śmieci - розділяти сміття
+warstwa ozonowa - озоновий шар
+plastik - пластик
+zanieczyszczenie powietrza - забруднення повітря
+segregacja - поділ
+makulatura - макулатура
+ściąć drzewo - зрізати дерево
+nawozić - удобрювати
+odnawialny - поновлюваний
+gatunek chroniony - зникаючий вид
+kwaśny deszcz - кислотний дощ
+katastrofa ekologiczna - катастрофа екологічна
+wycinać lasy - вирубувати ліси
+ścieki - стоки
+zanieczyszczona woda - забруднена вода
+ścinać drzewo - зрубувати дерево
+do ponownego wykorzystania - багаторазового використання
+nadający się do przetworzenia - що піддається переробці
+przyjazny dla środowiska - нешкідливий для середовища
+nawożenie - удобрення
+wysypisko śmieci - сміттєзвалище
+oczyszczalnia ścieków - очисні споруди
+odnawialne źródło energii - поновлювальне джерело енергії
+wytwarzać energię - виробляти енергію
+złom - металолом
+spaliny - вихлопні гази
+wycinanie lasów - вирубування лісів
+nieszkodliwy dla warstwy ozonowej - нешкідливий для озонового шару
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+Bóg - бог
+anioł - ангел
+diabeł - диявол
+duch - дух
+magiczny - магічний
+astrolog - астролог
+duch - дух
+paranormalny - паранормальний
+nadprzyrodzony - надприродний
+przepowiadać przyszłość - передбачати майбутнє
+horoskop - гороскоп
+wróżka - ворожка
+jasnowidz - ясновидець
+amulet - амулет
+obiekt - об'єкт
+kosmita - інопланетянин, позаземне створіння
+obcy - інопланетянин, позаземне створіння
+istota pozaziemska - інопланетянин, позаземне створіння
+czarownica - чарівниця
+magia - магія
+czary - магія
+przeznaczenie - доля
+sztuczka - штучка
+wróżyć - ворожити
+iluzja - ілюзія
+pozaziemski - позаземний
+przepowiadać - передбачати
+wiedźma - відьма
+znak zodiaku - знак зодіаку
+upiorny - жахливий
+ezoteryczny - езотеричний
+alchemia - алхімія
+szklana kula - скляна куля
+jasnowidztwo - ясновидіння
+klątwa - закляття
+magiczne zaklęcie - магічне закляття
+uzdrowiciel - цілитель
+wróżka - ворожка
+czyściec - чистилище
+reinkarnacja - реінкарнація
+czterolistna koniczyna - конюшина чотирилиста
+rzucać na kogoś urok - зачаровувати когось
+alchemik - алхімік
+prorok - пророк
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+księżyc - Місяць
+świat - світ
+słońce - сонце
+kosmos - космос
+wszechświat - всесвіт
+astronauta - астронавт
+planeta - планета
+Ziemia - Земля
+kosmita - інопланетянин, позаземне створіння
+obcy - інопланетянин, позаземне створіння
+istota pozaziemska - інопланетянин, позаземне створіння
+Marsjanin - марсіянин
+lot kosmiczny - космічний політ
+teleskop - телескоп
+astronom - астроном
+Ziemianin - землянин
+planetarny - планетарний
+kosmiczny - космічний
+grawitacja - тяжіння
+satelita - супутник
+statek kosmiczny - космічний корабель
+latający spodek - літаюча тарілка
+przestrzeń kosmiczna - космічний простір
+lądowanie na księżycu - приземлення на Місяці
+galaktyka - галактика
+baza kosmiczna - космічна станція
+konstelacja - сузір'я
+astronomiczny - астрономічний
+astronomia - астрономія
+prom kosmiczny - шатл
+gwiezdny - зірковий
+kometa - комета
+ziemski - земний
+asteroida - астероїд
+meteoryt - метеорит
+spadająca gwiazda - зірка, що падає
+nieważkość - невагомість
+niezidentyfikowany obiekt latający - неопізнаний літаючий об'єкт
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+księżyc - Місяць
+świat - світ
+słońce - сонце
+kosmos - космос
+wszechświat - всесвіт
+astronauta - астронавт
+planeta - планета
+Ziemia - Земля
+kosmita - інопланетянин, позаземне створіння
+obcy - інопланетянин, позаземне створіння
+istota pozaziemska - інопланетянин, позаземне створіння
+Marsjanin - марсіянин
+lot kosmiczny - космічний політ
+teleskop - телескоп
+astronom - астроном
+Ziemianin - землянин
+planetarny - планетарний
+kosmiczny - космічний
+grawitacja - тяжіння
+satelita - супутник
+statek kosmiczny - космічний корабель
+latający spodek - літаюча тарілка
+przestrzeń kosmiczna - космічний простір
+lądowanie na księżycu - приземлення на Місяці
+galaktyka - галактика
+baza kosmiczna - космічна станція
+konstelacja - сузір'я
+astronomiczny - астрономічний
+astronomia - астрономія
+prom kosmiczny - шатл
+gwiezdny - зірковий
+kometa - комета
+ziemski - земний
+asteroida - астероїд
+meteoryt - метеорит
+spadająca gwiazda - зірка, що падає
+nieważkość - невагомість
+niezidentyfikowany obiekt latający - неопізнаний літаючий об'єкт
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+mieć - мати
+wiedzieć - знати
+pisać - писати
+dzwonić - телефонувати
+telefonować - телефонувати
+dawać - дати
+skakać - стрибати
+pływać - плавати
+latać - літати
+malować - фарбувати, малювати
+pić - пити
+spać - спати
+patrzeć - дивитися
+gotować - готувати
+otwierać - відкривати
+zamykać - закривати
+zabić - вбити
+czytać - читати
+śpiewać - співати
+uczyć się - вчитися
+liczyć - рахувати
+wybrać - вибирати
+kopać - копа́ти
+oddychać - дихати
+potrzebować - потребувати
+mówić - говорити
+płakać - плакати
+pytać - питати
+lubić - любити
+kochać - кохати
+całować - цілувати
+kłamać - брехати
+kopać - ко́пати
+pomagać - допомагати
+kupować - купляти
+płacić - платити
+musieć - мусити
+stać - стояти
+siedzieć - сидіти
+dziękować - дякувати
+myśleć - думати
+słuchać - слухати
+mieszkać - проживати
+robić - робити
+iść - йти
+jeść - їсти
+budować - будувати
+jechać - їхати
+widzieć - бачити
+słyszeć - чути
+pożyczać - позичати
+myć - мити
+tańczyć - танцювати
+móc - могти
+umieć - вміти
+potrafić - вміти
+żyć - жити
+być - бути
+spotykać - зустрічати
+dostawać - отримувати
+leżeć - лежати
+sprzątać - прибирати
+łamać - ламати
+czesać - чесати, розчісувати
+rysować - малювати
+pracować - працювати
+wstawać - вставати
+śmiać się - сміятись
+trzymać - тримати
+brać - брати, забирати, взяти
+zabierać - брати, забирати, взяти
+wziąć - брати, забирати, взяти
+biegać - бігати
+spacerować - гуляти
+prowadzić samochód - вести автомобіль
+kopiować - копіювати
+wysłać - вислати
+sprawdzać - перевіряти
+kąpać się - купатись
+atakować - атакувати
+wierzyć - вірити
+bawić się - гратися
+huśtać się - гойдатись
+uczyć - навчати
+nauczać - навчати
+odpowiadać - відповідати
+rozumieć - розуміти
+powtarzać - повторювати
+urodzić się - народитись
+rosnąć - рости
+umierać - вмирати
+wybaczać - вибачати
+padać - падати
+niszczyć - нищити
+wygrać - виграти
+chcieć - хотіти
+łapać - ловити
+palić - курити
+oglądać - дивитись
+oszczędzać - заощаджувати
+powiedzieć - сказати
+rozmawiać - розмовляти
+uwielbiać - любити, полюбляти
+cieszyć się - радіти
+nienawidzić - ненавидіти
+podróżować - подорожувати
+zaczynać - починати
+kąpać - купати
+sprzedawać - продавати
+budzić się - прокидатись
+czekać - чекати
+zmienić - змінити
+smażyć - смажити
+być głodnym - бути голодним
+kosztować - коштувати
+zarabiać - заробляти
+leczyć - лікувати
+dodać - додати
+prasować - прасувати
+włączyć - включити
+iść na koncert - йти на концерт
+kończyć - закінчувати
+pukać - стукати
+prać - прати
+zapominać - забувати
+dbać - дбати
+obiecywać - обіцяти
+znajdować - знаходити
+przynieść - принести
+przychodzić - приходити
+kłaść - класти
+grać - грати
+latać - літати
+uśmiechać się - усміхатись
+nie lubić - не любити
+woleć - віддавати перевагу, воліти, більше любити
+preferować - віддавати перевагу, воліти, більше любити
+bać się - боятись
+bić - бити
+nosić - носити
+czuć - почуватись
+zachowywać się - поводитись
+zacząć - почати
+dotykać - торкатись
+marzyć - мріяти
+decydować - вирішувати
+gryźć - кусати
+odpoczywać - відпочивати
+stawać się - ставати
+odjeżdżać - від'їжджати
+radzić - радити
+kleić - клеїти
+pochodzić - походити
+zostawić - залишити
+znać - знати
+chodzić - ходити
+chodzić - ходити
+pamiętać - пам'ятати
+ssać - ссати
+relaksować się - розслаблятися
+obierać - чистити
+piec - пекти
+ubrać się - вдягнутися
+rozebrać się - роздягнутися
+hamować - гальмувати
+skręcać - повертати
+zepsuć się - зламатися
+parkować - паркуватись
+naprawiać - ремонтувати, відремонтувати
+drukować - друкувати
+wkleić - вставити
+usunąć - видалити
+kliknąć - клікнути
+edytować - редагувати
+otrzymać - отримати
+pobierać - завантажувати
+skanować - сканувати
+karmić - годувати
+brać prysznic - приймати душ
+malować się - фарбуватися
+golić się - голитися
+mierzyć temperaturę - міряти температуру
+kraść - красти
+aresztować - заарештувати
+łowić ryby - ловити рибу
+być podobnym do kogoś - бути схожим на когось
+wyjaśnić - пояснити
+pokazywać - показувати
+karać - карати
+ciągnąć - тягти
+zgadywać - вгадувати
+wyobrażać sobie - уявляти собі
+planować - планувати
+organizować - організувати
+rozwijać - розвивати
+studiować - навчатися
+oceniać - оцінювати
+testować - тестувати
+badać - обстежувати
+zdawać egzamin - здавати екзамен
+bronić - захищати
+zgadzać się - погоджуватись
+rezygnować - відмовлятися
+podejrzewać - підозрювати
+wisieć - висіти
+stać się - статися
+spodziewać się - сподіватися
+urodzić - народити
+starzeć się - старіти
+umrzeć - померти
+wątpić - сумніватись
+modlić się - молитися
+świętować - святкувати
+obserwować - спостерігати
+padać - падати
+strzelać - стріляти
+lądować - приземлятись
+przeżyć - пережити
+oczekiwać - очікувати
+mieć nadzieję - надіятися
+witać - вітати, вітатись
+szyć - шити
+cenić - цінувати
+polować - полювати
+zbierać - збирати
+palić się - горіти
+marnować - марнувати
+pachnieć - пахнути
+wymawiać - вимовляти
+literować - говорити по буквах
+szeptać - шепотіти
+krzyczeć - кричати
+nie zgadzać się - не погоджуватись
+kłócić się - сперечатися
+informować - інформувати
+przyznać - визнати
+gratulować - вітати
+żartować - жартувати
+przeklinać - лаятися
+przysięgać - присягатися
+ufać - довіряти
+być zakochanym - бути закоханим
+chodzić z kimś - зустрічатися з кимось
+pobrać się - побратися, одружитися
+pragnąć - прагнути
+negocjować - вести переговори
+martwić się - хвилюватися
+denerwować - діставати, нервувати
+zazdrościć - заздрити
+być złym - злитись
+bić - бити
+cierpieć - страждати
+manipulować - маніпулювати
+oddzwonić - передзвонити
+wymazywać - стирати
+łączyć - об'єднувати, з'єднувати
+zostać - залишитися
+odkrywać - відкривати
+jeździć - їздити
+pytać o drogę - питати про дорогу
+dostarczać - доставити, доставляти
+doręczać - доставити, доставляти
+żeglować - плавати на вітрильнику
+startować - стартувати
+tonąć - тонути
+odpocząć - відпочити
+rezerwować - бронювати
+wypożyczyć - взяти в оренду
+pakować - пакувати
+świecić - світити
+wracać - повертатись
+wymieniać - обміняти
+przepraszam - перепрошую
+znaczyć - означати
+szukać - шукати
+śpieszyć się - спішити
+mieszać - мішати
+gotować - варити
+kontrolować - контролювати
+inwestować - інвестувати
+zatrudniać - приймати на роботу, прийняти на роботу
+zamawiać - замовляти
+produkować - виробляти, виготовляти
+wyrzucić z pracy - вигнати з роботи
+prosić - просити
+proponować - пропонувати
+oferować - пропонувати
+walczyć - боротися
+grać w koszykówkę - грати в баскетбол
+pchać - пхати
+ciągnąć - тягнути
+przegrywać - програвати
+diagnozować - ставити діагноз
+zasługiwać - заслуговувати
+kaszleć - кашляти
+boleć - боліти
+wyleczyć - вилікувати
+przepisać - виписати
+odkryć - відкрити
+mnożyć - множити
+opisywać - описувати
+potwierdzić - підтвердити
+chudnąć - худнути, скидати вагу
+stracić na wadze - худнути, скидати вагу
+odchudzać się - худнути
+traktować - трактувати
+mierzyć - міряти
+projektować - проектувати
+wyłączyć - вимкнути
+pozwalać - дозволяти
+iść za kimś - йти за кимось
+klaskać - аплодувати
+grać na pianinie - грати на піаніно
+grać na gitarze - грати на гітарі
+nagrać - записати
+tworzyć - творити, створювати
+czasownik - дієслово
+pożyczać - позичати
+porównywać - порівнювати
+dzwonić - дзвонити
+zatrzymywać - затримувати
+spędzać - проводити
+tłumaczyć - перекладати
+przedstawiać - представляти
+poznawać - знайомитись
+używać - користуватися
+gubić - губити
+przyprowadzić - привести
+zapraszać - запрошувати
+życzyć - бажати
+przyjeżdżać - приїжджати
+spadać - падати
+obracać - обертати
+próbować - пробувати
+tęsknić - сумувати
+powinien - повинен
+kontynuować - продовжувати
+polecać - радити, рекомендувати
+rekomendować - радити, рекомендувати
+suszyć - сушити
+przedstawiać - представляти
+adresować - адресувати
+odbierać - брати слухавку
+mijać - минати
+zdać - здати
+przypominać - нагадувати
+unikać - уникати
+poprawiać - виправляти
+przygotowywać - готуватися
+zależeć - залежати
+współpracować - співпрацювати
+należeć - належати
+rozwodzić się - розлучатися
+zgubić się - загубитися
+ruszać - рухати
+rzucać - кидати
+pojawiać się - з'являтись
+przyjechać - приїхати, прибувати
+przybywać - приїхати, прибувати
+żałować - шкодувати
+zaznaczać - зазначати
+podpisywać - підписувати
+kazać - наказувати
+uspokajać - заспокоювати
+działać - працювати
+narzekać - нарікати
+głosować - голосувати
+kasować bilet - пробивати білет
+budzić - будити
+odkurzać - пилососити
+grać w golfa - грати в гольф
+grać w tenisa - грати в теніс
+usiąść - сісти
+opiekować się - опікуватись
+wracać - повертатися
+ważyć - важити
+anulować - анулювати
+akceptować - приймати
+uczęszczać - відвідувати
+włączać - вмикати
+ryzykować - ризикувати
+doceniać - цінувати
+podziwiać - захоплюватись
+wydawać się - здаватися
+rozważać - роздумувати
+przeprosić - перепросити
+zawierać - містити
+chować - ховати
+zostać - стати
+chciałby - хотів би
+zobaczyć - побачити
+chodźmy - ходімо
+mieć rację - мати рацію
+mieć na sobie - мати на собі
+interesować - цікавити
+mógłby - міг би
+umyć - помити
+ubierać - одягати
+położyć się - лягти, положитися
+ożenić się - одружитися
+grać w piłkę nożną - грати у футбол
+grać w siatkówkę - грати у волейбол
+założyć - одягнути
+mieć ochotę - мати охоту
+zaręczyć się - заручитися
+nalewać - наливати
+gwizdać - свистіти
+świecić - світити
+kroić - різати
+siekać - сікти
+nosić - носити
+przymierzyć - приміряти
+zwolnić - пригальмувати
+odebrać kogoś - забрати когось
+rejestrować - реєструвати
+zalogować się - ввійти під логіном
+instalować - встановлювати
+odinstalować - видалити
+przeinstalować - перевстановити
+porwać - викрасти
+otruć - отруїти
+skazać - засудити
+wyglądać jak - виглядати
+zachęcać - заохочувати
+dorastać - підростати
+imitować - імітувати
+eksperymentować - експериментувати
+zadawać zagadkę - загадати загадку
+kierować - адресувати, направляти
+podskakiwać - підскакувати
+uczęszczać do szkoły - відвідувати школу
+poprawiać - поліпшувати
+szkolić - тренувати
+kształcić - давати знання
+prowadzić - вести
+przemyśleć - обміркувати
+zarządzać - керувати
+żądać - вимагати
+oszukiwać - ошукувати
+interpretować - інтерпретувати
+analizować - аналізувати
+przewidywać - передбачати
+być w stanie - бути в стані
+dać sobie radę - давати собі раду
+oblać - провалити
+osłabić - ослабити
+monitorować - контролювати
+reformować - реформувати
+popierać - підтримувати
+skarżyć się - скаржитися
+protestować - протестувати
+debatować - дебатувати
+dyskutować - дискутувати
+prowadzić śledztwo - провадити слідство
+zwolnić - звільнити
+oskarżać - звинувачувати
+chodzić - йти
+trwać - тривати
+przedłużać - продовжувати, подовжувати
+skracać - вкорочувати
+rozmnażać się - розмножуватись
+spodziewać się dziecka - очікувати дитину
+popełnić samobójstwo - вчинити самогубство
+odziedziczyć - успадкувати
+zamrażać - заморожувати
+medytować - медитувати
+zmartwychwstać - воскреснути
+błogosławić - благословляти
+klęczeć - стояти на колінах
+przepowiadać przyszłość - передбачати майбутнє
+lać - лити
+pogarszać się - погіршуватись
+polepszać się - ставати краще
+wiać - дути
+zdezerterować - дезертирувати
+zdradzać - зраджувати
+wybuchnąć - вибухнути
+wspierać - підтримувати
+zawieść kogoś - розчарувати когось
+ranić - поранити
+zaginąć - зникнути
+zostać zabitym - бути вбитим
+wyzwolić - звільнити
+przestać coś robić - припинити щось робити
+uciec - втікти
+migrować - мігрувати
+emigrować - емігрувати
+wykorzystywać - використовувати
+ograniczać - обмежувати
+wybierać - вибирати
+zabronić - заборонити
+odsyłać - відсилати
+dyskryminować - дискримінувати
+winić - винити
+dostosować - підлаштувати
+łączyć - об'єднати
+różnić się - відрізнятись
+szanować - шанувати
+zbierać - збирати
+zanieczyszczać - забруднювати
+uszkadzać - пошкодити
+dewastować - руйнувати
+wdychać - вдихати
+głodować - голодувати
+wąchać - нюхати
+śmierdzieć - смердіти
+być świadomym - усвідомлювати
+uświadamiać sobie - усвідомлювати собі
+gwarantować - гарантувати
+chronić - оберігати
+odnowić - відновити
+zamienić - замінити
+posprzątać - прибрати
+odkażać - знезаражувати
+podkreślać - підкреслювати
+wrzeszczeć - верещати
+porozumiewać się - порозумітись
+opowiadać - оповідати
+wyrazić się - висловитись
+deklarować - присягатись
+zauważyć - звернути увагу
+potwierdzać - підтверджувати
+twierdzić - стверджувати
+zaprzeczać - заперечувати
+zrobić pauzę - зробити паузу
+przerwać - перервати
+oznajmić - заявити
+prezentować - ознайомити
+wprowadzić - впровадити
+wyrazić - виразити
+reklamować - рекламувати
+promować - рекламувати
+ilustrować - ілюструвати
+przekonać - переконувати, переконати
+wyznać - признатись
+naśladować - імітувати
+plotkować - пліткувати
+obrażać - ображати
+wahać się - вагатися
+wyzdrowieć - одужати
+polegać na - розраховувати на
+wspierać kogoś - підтримувати когось
+dogadywać się z kimś - ладити з кимось
+flirtować - фліртувати
+oświadczyć się - освідчитись
+pożądać - домагатись
+kochać się - кохатися
+dotyczyć - стосуватися
+irytować - дратувати
+przeszkadzać - заважати
+zmartwić - засмутити
+złościć się - злитися
+udawać - удавати
+złościć kogoś - злити когось
+gwałcić - гвалтувати
+mordować - застрелити
+trafić - влучити
+szantażować - шантажувати
+porwać samolot - захопити літак
+maszerować - марширувати
+zebrać się - зібратися
+prowokować - провокувати
+subskrybować - підписатися
+publikować - видавати
+zrobić kopię - зробити копію
+śledzić - слідкувати
+stemplować - штампувати
+korespondować - переписуватись
+rozłączyć - роз'єднати
+programować - програмувати
+formatować - форматувати
+wyświetlać - показувати
+przewijać - прокручувати
+przechowywać - зберігати
+aktualizować - оновлювати
+sortować - сортувати
+zarazić - заразити
+neutralizować - нейтралізувати
+przeglądać - переглядати
+przesłać dalej - переслати далі
+gościć kogoś - приймати гостей
+przebywać - перебувати
+opóźniać - припізнити
+przewozić - перевозити
+startować - стартувати
+zatrzymywać - зупинятись
+dojeżdżać - доїжджати
+tankować - заправляти
+przesiąść się - пересідати, пересісти
+konstruować - конструювати
+zderzyć się - зіткнутись
+zameldować się - зареєструватися
+wymeldować się - виписатись
+oprowadzać - проводити екскурсію
+kolekcjonować - колекціонувати
+filmować - знімати
+przyciągać uwagę - притягувати
+nabyć - придбати
+zużywać - споживати
+wrzeć - кипіти
+napić się - випити
+mieszać - мішати
+słodzić - солодити
+solić - солити
+dekorować - декорувати
+częstować się - частуватись
+podjadać - під'їдати
+nakrywać do stołu - накривати на стіл
+żuć - жувати
+połykać - ковтати
+trawić - перетравлювати
+prywatyzować - приватизувати
+wzrastać - зростати, виростати
+zmniejszać - зменшити
+wzrosnąć - вирости
+zmniejszać się - зменшуватись
+bankrutować - банкрутувати
+dostarczać - забезпечувати
+konkurować - конкурувати
+importować - імпортувати
+eksportować - експортувати
+przyciągać - приваблювати
+łatać - латати
+posiadać - володіти
+uprawiać - вирощувати, обробляти
+sadzić - садити
+podlewać - підливати
+kosić - косити
+naciskać - натискати
+gnić - гнити
+hodować - розводити
+żądlić - жалити
+piłować - пиляти
+ustalić - уточнити
+zapisywać - зберігати
+być w pracy - бути на роботі
+szkolić - вчитись
+specjalizować się - спеціалізуватись
+awansować - просуватись
+zwolnić z pracy - звільнити з роботи
+reprezentować - представляти
+strajkować - страйкувати
+sprzeciwiać się - спротивитися
+odrzucać - відхилити
+ćwiczyć - тренуватись, займатись
+pocić się - пітніти
+podnosić - піднімати
+zginać - згинати
+zakwalifikować się - пройти кваліфікацію
+uczestniczyć - брати участь
+brać udział - брати участь
+męczyć się - мучитися
+zakładać się - спорити
+dyskwalifikować - дискваліфікувати
+eliminować - позбутись
+skaleczyć się - порізатись
+złamać - зламати
+sparaliżować - паралізувати
+zachorować - захворіти
+krwawić - кровоточити
+zemdleć - зомліти
+swędzieć - свербіти
+operować - оперувати
+zmierzyć puls - поміряти пульс
+pielęgnować - доглядати
+obliczać - порахувати
+odjąć - відняти
+podzielić - поділити
+reagować - реагувати
+udowadniać - доводити
+rozkoszować się - насолоджуватись
+smakować - смакувати
+wstrząsać - збовтати
+podnosić - підвищувати
+rzeźbić - різьбити
+izolować - ізолювати
+wprowadzić się - вселятись
+wyprowadzić się - виселятись
+wynająć - винайняти
+wyprowadzać się - виїжджати
+farbować - фарбувати
+rozbierać się - роздягатись
+być do twarzy - бути до лиця
+naśladować - повторяти
+reżyserować - знімати
+dubbingować - дублювати
+stać w kolejce - стояти в черзі
+grać na instrumencie - грати на інструменті
+wykonywać - виконувати
+inspirować - надихати
+żonglować - жонглювати
+kolorować - розмальовувати
+wynaleźć - винайти
+podkreślać - підкреслювати
+fascynować - захоплювати
+przedstawiać - показувати
+nie trafić - не вцілити
+machać - махати
+przypominać sobie - пригадувати собі
+postawić - поставити
+upadać - впасти
+wieszać - вішати
+spóźnić się - запізнитись
+niepokoić się - хвилюватися
+dziwić się - дивуватись
+zaskakiwać - здивувати
+uzupełniać - доповнювати
+czyścić - чистити
+przestawać - переставати
+klękać - стати на коліна
+zmieniać - змінити
+przeprowadzać się - переїжджати
+brzmieć - звучати
+dzwonić - дзвонити
+trzaskać - грюкати
+szkodzić - шкодити
+pozwalać sobie na coś - дозволяти собі щось
+redukować - зменшувати
+obniżać - знизити
+iść w górę - йти догори
+schnąć - сохнути
+śnić - снитися
+osiągnąć - досягнути
+podwajać - подвоювати
+wysyłać - посилати
+spowalniać - затримувати
+zwężać - звужувати
+krzyżować - схрещувати
+przechodzić - проходити
+podawać - передавати
+źle zrozumieć - неправильно зрозуміти
+usprawiedliwiać się - виправдовуватись
+korygować - коригувати
+rozwiązywać - розв'язувати
+przypuszczać - припускати
+ostrzegać - застерігати
+wynikać - з'являтись
+oddzielać - відділити
+pozdrawiać - поздоровляти
+przechodzić - переходити
+jednoczyć - об'єднувати
+dołączyć - приєднатись
+wybierać - вибрати
+ustanawiać - встановлювати
+ustawić - встановити
+realizować - реалізувати
+zastępować - замінити
+zabraniać - забороняти
+obrabować - пограбувати
+zmuszać - змусити
+powodować - викликати
+tłoczyć się - юрбитися
+działać - діяти
+wiązać - в'язати
+wskazywać - показувати
+robić krok - робити крок
+popychać - штовхати
+trenować - тренуватися
+zajmować - займати
+rozczarować - розчарувати
+niepokoić - хвилювати
+przestraszyć - перелякати
+obawiać się - боятись, хвилюватись
+trząść się - трястися
+szokować - шокувати
+zastanawiać się - роздумувати
+znosić - переносити
+ekscytować - підняти настрій
+zakreślać - обводити
+odmawiać - відмовити
+rozkazywać - командувати
+ocaleć - залишитись живим
+wyglądać - здаватись
+doradzać - порадити
+ratować - рятувати
+ścielić łóżko - стелити ліжко
+chrapać - хропіти
+opalać się - засмагати
+przytulać - обійняти
+obejmować - обіймати
+szczekać - гавкати
+wróżyć - ворожити
+mierzyć ciśnienie - міряти тиск
+pisać na klawiaturze - друкувати на клавіатурі
+pocieszać - заспокоювати
+błagać - благати
+wymiotować - блювати
+pasować - підходити
+spóźniać się - спізнюватись
+zakopać - закопати
+tracić - втратити
+próbować - пробувати
+odpowiadać - підходити
+równać się - дорівнювати
+wsiadać - сідати
+łysieć - лисіти
+znosić jajka - нести яйця
+nurkować - займатись дайвінгом
+poplamić - поплямити
+wymazać - стерти
+oceniać - оцінити
+pochować - поховати
+motywować - стимулювати
+położyć - покласти
+legalizować - легалізувати
+interesować się - цікавитися
+kontaktować się - контактувати
+wymienić - обміняти, замінити
+poznać - узнати
+zdobyć - здобути
+starać się - старатися
+istnieć - існувати
+mieć zamiar - мати наміри
+uważać - бути обережним, вважати
+korzystać - використовувати
+dmuchać - дмухати
+napełniać - наповнювати
+rozwalić - скрутити
+wyjść za mąż - вийти заміж
+wycierać - витирати
+zamiatać - замітати
+wieszać pranie - вивісити білизну
+ścierać kurze - стерти пил
+dowiedzieć się - довідатися
+wysiadać - вийти
+wchodzić - входити
+włożyć - покласти, пхати, запхнути
+składać się z - складатися з
+oparzyć się - обпектися
+zginąć - загинути
+tolerować - терпіти
+spoglądać - споглядати
+rozbić - розбити
+wyć - вити
+wyprzedzać - випереджувати
+przyspieszyć - пришвидшити
+cofać - дати назад
+wyciąć - вирізати
+wylogować się - вийти з акаунта
+zamordować - замордувати
+wychowywać - виховувати
+złożyć - скласти
+holować - буксирувати
+potrącić - зачепити
+rozdawać - роздавати
+poddać się - здатись
+raczkować - повзати рачки
+zjeżdżać - з'їжджати
+toczyć się - котитись
+ujawnić - розсекретити
+powtórzyć - повторити
+iść na wagary - пропускати уроки
+zdobyć - здобути
+koncentrować się - зосереджуватися
+zademonstrować - продемонструвати
+zmniejszyć - зменшити
+wymagać - вимагати
+przystosować - пристосувати
+rządzić - правити, керувати
+rządzić krajem - правити країною
+finansować - фінансувати
+pochwalić - похвалити
+zaprzeczyć - заперечити
+sprzeciwiać się czemuś - чинити опір чомусь
+krytykować - критикувати
+kandydować - кандидувати
+przekupić - підкупити
+unieważnić - анулювання
+oświadczyć - засвідчити
+stracić - стратити
+tykać - тікати
+wybijać - вибивати
+tracić czas - витрачати час
+wschodzić - сходити
+ściemniać się - темніти
+upłynąć - сплисти
+wrócić - вернутись
+prognozować - прогнозувати
+dojrzewać - дозрівати
+siwieć - сивіти
+klonować - клонувати
+czcić - славити
+bluźnić - богохульствувати
+bezcześcić - сплюндрувати
+grzeszyć - грішити
+ukrzyżować - розіп'яти
+pościć - постити
+spowiadać się - сповідатися
+głosić kazanie - проповідувати
+przeżegnać się - перехреститись
+przepowiadać - передбачати
+płynąć - плисти, спливати
+ocieplać się - теплішати
+zanosić się na deszcz - збиратись на дощ
+mżyć - мрячити
+zamarzać - замерзати
+topnieć - танути
+przejaśniać się - прояснятися
+rozpogadzać się - розпогоджуватись
+oziębiać się - охолоджуватись
+trząść się - труситися
+wylewać - розливатись
+osiedlać się - оселитись
+służyć - служити
+werbować - вербувати
+dowodzić - командувати, керувати
+zdegradować - понизити
+uderzać - ударяти, вдарити
+chybić - схибити, промахуватись
+przesuwać - пересувати
+sprzymierzyć się - примирятися
+ingerować w coś - втручатись в щось
+okaleczyć - скалічити
+maltretować - зневажати
+torturować - мучити
+masakrować - розправлятись
+pokonać - перемогти
+zdobyć - завоювати
+zgnieść - розчавити
+okupować - окупувати
+wycofać się - вийти
+stawiać opór - чинити опір
+zemścić się - відплатити
+żyć w pokoju - жити у згоді
+rozbroić - знешкодити
+odbudować - відбудувати
+prześladować - переслідувати
+spełnić oczekiwania - виправдати очікування
+aspirować - прагнути
+zbić fortunę - сколотити капітал
+przekroczyć - переступити
+przemycać - ввозити контрабандно
+patrzeć na kogoś z góry - дивитись на когось зверхньо
+integrować - інтегрувати
+zmiksować - змішати
+wyróżniać się - виділятись
+pogodzić się - погодитись
+wzbogacić - збагатити
+wyrządzić krzywdę - завдати шкоди
+zużywać - використовувати
+trwonić - транжирити
+dusić - душити
+dławić się - давитися
+wysychać - висихати
+nadużywać - зловживати
+pozbywać się - позбуватися
+przeciekać - протікати
+regulować - регулювати
+osuszać - осушувати
+ryczeć - ричати
+piszczeć - пищати
+grzmieć - гриміти
+relacjonować - відповідати, переказувати
+wspomnieć - нагадати
+recytować - декламувати
+dyktować - диктувати
+podkreślić - підкреслити
+improwizować - імпровізувати
+gawędzić - балакати
+utrzymywać - втримати
+ponaglać - підганяти
+uciszyć - утішити
+chwalić - хвалити
+schlebiać - лестити
+wyśmiewać - насміхатись
+szydzić - глумитись
+kpić - кпити, кепкувати, насміхатися
+wykrzyknąć - вигукнути
+chichotać - хихотати
+wzdychać - зітхати
+lamentować - лементувати
+jęczeć - янчати
+szlochać - хлипати
+urazić - образити
+jąkać się - заїкатись
+błędnie wymówić - неправильно вимовляти
+seplenić - шепелявити
+podzielać - поділяти
+wyznać miłość - признатися у коханні
+pieścić - пестити
+tulić - пригорнути
+uprawiać seks - займатись сексом
+współżyć - мати контакт
+spełnić żądania - виконати вимоги
+oszukiwać - обманювати
+nabrać kogoś - обманути когось
+ukryć - приховати
+chwalić się - хвалитися
+napastować - натерти
+pchnąć nożem - вдарити ножем
+uderzyć pięścią - дати кулаком, ляпаса
+ciąć - різати, розрізати
+gnębić - гнобити
+znęcać się - знущатися
+molestować - знущатись
+wydawać - видавати
+wyjść - вийти
+prenumerować - передплатити
+redagować - редагувати
+nadawać - транслювати
+szpiegować - шпигувати
+ujawniać - виявляти
+podsłuchiwać - підслуховувати
+cenzurować - піддавати цензурі
+kneblować - закрити рот кляпом
+konfiskować - конфіскувати
+powstrzymywać - стримувати
+ścierpieć - стерпіти
+przetwarzać - обробляти
+przeciążyć - перевантажити
+wprowadzać - вводити
+odzyskać - повернути
+drapać - дряпати, чесатися
+wyplenić - виполоти
+wędrować - подорожувати
+rozładować - розвантажувати
+wykoleić się - зійти з рейок
+przewrócić - перекинути
+zdrzemnąć się - здрімнути
+zorganizować się - зорганізуватися
+ubiegać się - найнятись
+rozpakować - розпакувати
+przenocować - переночувати
+opalić się - загоріти
+objeżdżać - об'їжджати
+sponsorować - спонсорувати
+kusić - спокушати
+wzbudzać zainteresowanie - збуджувати зацікавлення
+zwracać uwagę - звертати увагу
+ośmieszać - підняти на сміх
+wystawiać - виставляти
+obsługiwać - обслуговувати
+złożyć - подати
+ubijać - збивати
+podgrzewać - розігрівати
+częstować kogoś - частувати когось
+rozmrażać - розморожувати
+konserwować - консервувати
+bekać - відригувати, бекати
+interweniować - втручатися
+pobudzać - стимулювати
+zawalić się - завалитися
+monopolizować - монополізувати
+spekulować - спекулювати
+etykietować - маркувати
+orać - орати
+pielić - полоти
+obgryzać - гризти
+uschnąć - всохнути
+tuczyć - відгодовувати
+strzyc - стригти
+krzepnąć - застигати
+nawadniać - зрошувати
+nawozić - удобрювати
+wznosić - зводити
+heblować - стругати
+wiercić - свердлити
+przykręcać - прикрутити
+spawać - зварювати
+napędzać - підсилювати
+zapadać się - осуватися
+pozbyć się - позбутися
+promieniować - випромінювати
+montować - монтувати
+automatyzować - автоматизувати
+konserwować - консервувати
+zwalniać - звільняти
+domagać się - домагатися
+przenosić - переносити
+rozciągać się - розминатись
+ścigać się - змагатись
+wspinać się - вилазити
+schylać się - схилятися
+doskonalić - вдосконалювати
+rywalizować - конкурувати
+nagradzać - віддячити
+zremisować - зіграти внічию
+wycofać się - відсторонитись
+lekceważyć - легковажити
+nadwyrężać - розтягнути
+sędziować - судити
+zranić - поранити, образити
+skręcić - вивихнути, підвернути
+drżeć - дрижати, тремтіти
+kichać - чхати
+mdleć - мліти
+dusić się - душитися
+znieczulić - знеболити
+szczepić przeciw - зробити щеплення проти
+wykryć - виявити
+odliczać - рахувати
+delektować się - смакувати
+potrząsać - трусити
+przejeść się - переїсти
+trzeźwieć - тверезішати
+zerwać z nałogiem - покінчити з шкідливою звичкою
+kształtować - визначати, формувати
+prostować - розправляти
+spłaszczać - сплюснути
+zaokrąglić - закруглити
+wykrzywiać - спотворювати
+pogłębiać - поглиблювати
+poszerzać - розширювати
+wymyślić - видумати
+oświetlić - присвітити
+chłodzić - холодити
+rozprzestrzeniać się - розповсюджуватись
+opuszczać - покидати
+uciekać - протікати
+sznurować - шнурувати
+blaknąć - блякнути
+pognieść - пом'яти
+miąć - м'яти
+rozdzierać - роздирати
+drzeć - дерти
+przyszyć - пришити
+zszyć - зашити
+cerować - штопати
+przebrać się - переодягнутися
+polerować - полірувати
+gryzmolić - базграти
+fałszować - фальшивити
+natchnąć - надихати
+portretować - малювати портрет
+oprawić - оправити
+kadrować - кадрувати
+identyfikować - ідентифікувати
+osądzać - осуджувати
+cytować - цитувати
+podsumowywać - підсумовувати
+trzasnąć - грюкнути
+szczotkować - чистити щіткою
+zmoknąć - змокнути
+mieć znaczenie - мати значення
+dostawać się - вступити
+zaznaczyć - позначити
+walić - валити
+obniżać się - понижуватися
+handlować - торгувати
+spryskiwać - прискати
+formować - формувати
+ogłaszać - оголошувати
+rozszerzać - розширювати
+zapinać - застібати
+zaświadczać - засвідчувати
+zapamiętywać - запам'ятовувати
+piec - пекти
+graniczyć - межувати
+pojaśnić - посвітліти
+wstąpić - вступити
+ostrzyć - гострити
+tępić - тупити
+leniuchować - лінуватись, байдикувати
+próżnować - лінуватись, байдикувати
+zabawiać - забавляти
+wydobywać - добувати
+trzeć - терти
+pocierać - терти
+ukazywać się - виходити друком
+zakręcać - повертати
+lękać się - лякатися
+wytrzymywać - витримувати
+zwrócić - повернути
+zabezpieczać - забезпечити
+zawijać - загортати
+wstrzykiwać - впорскувати
+odśnieżać - чистити від снігу
+czyścić zęby nicią dentystyczną - чистити зуби зубною ниткою
+chodzić na palcach - ходити на пальцях
+ziewać - позіхати
+grozić - погрожувати
+poślizgnąć się - послизнутись
+nawlekać igłę - затягувати нитку в голку
+kręcić się - крутитись
+zamierzać - збиратись
+zwichnąć - вивихнути
+opierać się - спиратись
+podnosić - підіймати
+szorować - шурувати
+mieć miejsce - мати місце
+zwiedzać - відвідувати
+potykać się - спотикатися
+przekwalifikować się - перекваліфікуватися
+ściągać - списувати
+wkuwać - зубрити
+potępiać - засуджувати
+nakładać podatki - оподатковувати
+donosić na kogoś - доносити на когось
+uniewinnić - визнати невинним
+nakręcać - накручувати
+odmładzać - робити молодшим
+nawrócić - навернути
+obrzezać - обрізати
+chmurzyć się - хмаритись
+wybuchać - вибухати
+zejść na ziemię - зійти на землю
+nękać - дратувати
+wabić - вабити
+tamować - зупинити, втамувати
+zubożyć - зубожіти
+niewłaściwie zarządzać - неправильно розпоряджатися
+wyrzucić - викинути
+sączyć się - сочитися
+mamrotać - бурмотіти
+nucić - наспівувати
+wygwizdać - засвистати
+ryczeć ze śmiechu - реготати на все горло
+wybuchnąć płaczem - вибухнути плачем
+mieć bzika - бути зацикленим на чомусь
+zalecać się - залицятися
+podrywać - залицятися
+masturbować się - мастурбувати
+mieć wytrysk - мати еякуляцію
+bratać się - брататися
+ukrywać - приховувати
+drwić - кпити
+zniewolić - поневолити
+oczerniać - ганьбити
+komputeryzować - комп'ютеризувати
+digitalizować - перетворювати в цифрову форму
+robić fikołka - робити пере́кид
+móc sobie na coś pozwolić - могти собі щось дозволити
+targować się - торгуватися
+bojkotować - бойкотувати
+kiełkować - проростати
+wykluć się - вилупитися
+zsiadać się - зсідатися
+szlifować - шліфувати
+wchodzić na drabinę - вилазити на драбину
+zagęszczać - згущувати
+obalić - змістити, повалити
+wyposażyć - оснастити
+haftować - вишивати
+skurczyć się - збігтися, скрутитися
+tkać - ткати
+rozpruć - розпороти
+rąbnąć - гримнути
+wykluczyć - виключити
+strzec - стерегти
+stąpać - ступати
+zapobiegać - запобігати
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+biały - білий
+czarny - чорний
+czerwony - червоний
+niebieski - синій, голубий, блакитний
+różowy - рожевий
+szary - сірий
+zielony - зелений
+żółty - жовтий
+stary - старий
+pusty - порожній
+pełny - повний
+szybki - швидкий
+długi - довгий
+krótki - короткий
+młody - молодий
+wysoki - високий
+niski - низький
+suchy - сухий
+gorący - гарячий
+zimny - холодний
+tani - дешевий
+trudny - складний, тяжкий
+głodny - голодний
+brudny - брудний
+cichy - тихий
+zły - поганий
+nudny - нудний
+drogi - дорогий
+mały - малий
+chory - хворий
+gruby - товстий
+twardy - твердий
+piękny - красивий
+brzydki - негарний
+miły - милий
+dobry - хороший
+mały - малий
+duży - великий
+łatwy - легкий
+nowy - новий
+smutny - сумний
+wysoki - високий
+niski - низький
+ładny - гарний
+spokojny - спокійний
+brązowy - коричневий
+fioletowy - фіолетовий
+pomarańczowy - помаранчевий
+nieśmiały - несміливий
+cierpliwy - терплячий
+słaby - слабкий
+aktywny - активний
+inteligentny - інтелігентний
+jasny - світлий
+ostatni - останній
+następny - наступний
+mądry - мудрий
+wąski - вузький
+szeroki - широкий
+głęboki - глибокий
+mokry - мокрий
+ciepły - теплий
+biedny - бідний
+atrakcyjny - привабливий
+inny - інший
+czysty - чистий
+głośny - гучний
+bliski - близький
+szczęśliwy - щасливий
+wolny - повільний
+śmieszny - смішний
+złoty - золотий
+srebrny - срібний
+prawy - правий
+ostry - гострий
+odważny - відважний, сміливий
+lekki - легкий
+słodki - солодкий
+miękki - м'який
+nagi - голий
+kreatywny - креативний
+ciemny - темний
+interesujący - цікавий
+kolorowy - кольоровий
+nerwowy - нервовий
+codzienny - щоденний
+ciężki - тяжкий
+ubrany - вдягнений
+głupi - дурний, нерозумний
+ważny - важливий
+wielki - великий
+zajęty - зайнятий
+żonaty - одружений
+niebezpieczny - небезпечний
+ostrożny - обережний
+przystojny - симпатичний
+otwarty - відкритий
+zamknięty - зачинений
+gotowy - готовий
+złamany - зламаний
+średni - середній
+czarno-biały - чорно-білий
+silny - сильний
+chudy - худий
+lepszy - ліпший
+lewy - лівий
+dwunasty - дванадцятий
+uczciwy - чемний
+ambitny - амбітний
+internetowy - Інтернет
+beżowy - бежевий
+granatowy - темно-синій
+luźny - вільний
+ciasny - тісний
+za krótki - закороткий
+aresztowany - заарештований
+podobny - схожий
+adoptowany - прийомний
+leniwy - лінивий
+rozmowny - говіркий
+logiczny - логічний
+narodowy - національний
+legalny - легальний
+królewski - королівський
+poprzedni - попередній
+regularny - регулярний
+dzienny - денний
+roczny - річний
+rzadki - рідкісний
+nowoczesny - сучасний
+przyszły - майбутній, наступний
+doświadczony - досвідчений
+umierający - той, що помирає
+święty - святий
+magiczny - магічний
+płytki - мілкий
+słoneczny - сонячний
+chłodny - холодний
+strategiczny - стратегічний
+chemiczny - хімічний
+biologiczny - біологічний
+wolny - вільний
+niecierpliwy - нетерплячий
+społeczny - суспільний
+tolerancyjny - толерантний
+dziwny - дивний
+obcy - чужий
+niezwykły - незвичайний
+drewniany - дерев'яний
+naturalny - природний
+negatywny - негативний
+odmowny - негативний
+bezpośredni - безпосередній
+dyskretny - стриманий
+przyjazny - приязний
+kochający - закоханий
+cudowny - чудовий, чарівний
+romantyczny - романтичний
+zaręczony - заручений
+zrelaksowany - розслаблений
+wesoły - веселий, радісний
+radosny - веселий, радісний
+pogodny - веселий, радісний
+hojny - щедрий
+równy - рівний
+sprawiedliwy - справедливий
+wspaniały - чудовий
+okrutny - жорстокий
+dumny - гордий
+zazdrosny - ревнивий, заздрісний
+wściekły - розлючений, розгніваний
+brutalny - брутальний
+indywidualny - індивідуальний
+turystyczny - туристичний
+podstawowy - початковий, основний
+przytulny - затишний
+egzotyczny - екзотичний
+własny - власний
+darmowy - безплатний
+dostępny - доступний
+zmęczony - змучений
+mocny - міцний, потужний
+gotowany - варений
+specjalny - особливий
+średni - середній
+bezrobotny - безробітний
+publiczny - публічний
+sławny - відомий
+zabroniony - заборонений
+chory - хворий
+ludzki - людський
+naukowy - науковий
+kwadratowy - квадратний
+okrągły - круглий
+fizyczny - фізичний
+kwaśny - кислий
+pikantny - пікантний
+tradycyjny - традиційний
+autentyczny - автентичний
+prawdziwy - справжній
+elegancki - елегантний
+plastikowy - пластиковий
+świeży - свіжий
+cienki - тонкий
+szczupły - худий
+uzależniony - узалежнений, залежний
+pijany - п'яний
+wstawiony - п'яний
+prosty - прямий
+gruby - товстий
+oryginalny - оригінальний
+wygodny - зручний
+anonimowy - анонімний
+zanieczyszczony - забруднений
+gładki - гладкий
+przymiotnik - прикметник
+fantastyczny - фантастичний
+zestresowany - знервований
+poważny - серйозний
+prywatny - приватний
+cały - цілий
+centralny - центральний
+poprawny - правильний
+błędny - помилковий
+możliwy - можливий
+niemożliwy - неможливий
+ten sam - той же
+taki sam - такий самий, такий же
+fałszywy - фальшивий
+nieprawdziwy - неправдивий
+pewny - впевнений
+pewien - впевнений
+polityczny - політичний
+żywy - живий
+ulubiony - улюблений
+papierowy - паперовий
+punktualny - пунктуальний
+okropny - препаршивий, жахливий
+konieczny - обов'язковий
+osobisty - особистий
+pozytywny - позитивний
+rudy - рудий
+ciekawy - цікавий
+naiwny - наївний
+zdecydowany - рішучий
+obecny - дійсний, присутній
+malutki - маленький
+warty - вартий
+cenny - цінний
+bezpieczny - безпечний
+ekonomiczny - економний
+wrażliwy - чутливий
+purpurowy - пурпурний
+początkujący - початківець
+poziomy - горизонтальний
+doskonały - ідеальний
+pojedynczy - одномісний
+podwójny - подвійний
+skomplikowany - складний
+ostry - гострий
+ogólny - загальний
+szczególny - особливий
+osobliwy - особливий
+nadzwyczajny - особливий
+jedyny - єдиний
+rozwiedziony - розлучений
+cienki - тонкий
+zepsuty - зламаний
+straszny - страшний
+oficjalny - офіційний
+dodatkowy - додатковий
+elektryczny - електричний
+dziki - дикий
+być przyzwyczajonym - бути призвичаєним
+senny - сонний
+zakochany - закоханий
+uśmiechnięty - усміхнений
+zaskoczony - здивований
+zdziwiony - здивований
+sprzedany - проданий
+uczulony - мати алергію
+bystry - кмітливий
+satysfakcjonujący - такий, що приносить задоволення
+starszy - старший
+jakiś - якийсь
+różny - різний
+jedenasty - одинадцятий
+szkolny - шкільний
+neutralny - нейтральний
+prosty - простий
+zadowolony - задоволений
+nieszczęśliwy - нещасливий
+gorszy - гірший
+gęsty - густий
+rozbity - розбитий
+w kropki - в крапку
+bezprzewodowy - безпровідний
+pewny siebie - впевнений у собі
+identyczny - однаковий
+łagodny - ніжний
+wyrozumiały - поблажливий
+uprzejmy - ввічливий, доброзичливий
+niegrzeczny - неввічливий, неслухняний
+uparty - впертий
+edukacyjny - навчальний
+wykształcony - освічений
+zmotywowany - заохочений
+pracowity - працьовитий
+zdyscyplinowany - дисциплінований
+roztargniony - неуважний
+kompetentny - компетентний
+demokratyczny - демократичний
+prezydencki - президентський
+tyrański - тиранічний
+konserwatywny - консервативний
+niewinny - невинний
+cyfrowy - цифровий
+dokładny - точний
+wiosenny - весняний
+jesienny - осінній
+następny - наступний
+nagły - наглий
+tymczasowy - тимчасовий
+pilny - терміновий
+częsty - частий
+nieregularny - нерегулярний
+tygodniowy - тижневий
+miesięczny - місячний
+powtarzający się - повторюваний
+wyjątkowy - винятковий
+prehistoryczny - доісторичний
+historyczny - історичний
+najnowszy - останній
+najnowszy - найновіший
+aktualny - актуальний
+współczesny - сучасний
+modny - модний
+idealistyczny - ідейний
+niezależny - незалежний
+zależny - залежний
+martwy - мертвий
+śmiertelny - смертельний
+nieśmiertelny - безсмертний
+duchowy - духовний
+niewierzący - невіруючий
+chrześcijański - християнський
+żydowski - жидівський
+romański - романський
+gotycki - готичний
+manipulowany - маніпульований
+nadprzyrodzony - надприродний
+paranormalny - паранормальний
+kosmiczny - космічний
+planetarny - планетарний
+śnieżny - сніжний
+mroźny - морозний
+wietrzny - вітряний
+nuklearny - ядерний
+jądrowy - ядерний
+radioaktywny - радіоактивний
+obronny - захисний
+ranny - поранений
+zabity - вбитий
+zaginiony - зниклий
+poparzony - обпечений
+niepełnosprawny - інвалід
+podziemny - підземний
+bohaterski - відважний
+elastyczny - гнучкий
+nielegalny - нелегальний
+kulturalny - культурний
+rasistowski - расистський
+nietolerancyjny - нетолерантний
+dwujęzyczny - двомовний
+różnorodny - різнорідний
+etniczny - етнічний
+wielokulturowy - висококультурний
+toksyczny - токсичний
+śmierdzący - смердючий
+zdrowy - здоровий
+ekologiczny - екологічний
+innowacyjny - новаційний
+formalny - формальний
+nieformalny - неформальний
+twierdzący - ствердний
+pytający - питальний
+dyskusyjny - дискусійний
+kontrowersyjny - контроверсійний
+asertywny - настирний
+informacyjny - інформаційний
+wzruszający - зворушливий
+śmiejący się - що сміється
+lubiany - кого люблять
+wierny - відданий
+seksowny - сексуальний
+życzliwy - доброзичливий
+taktowny - тактовний
+niemiły - неприємний
+irytujący - дратівливий
+nieuczciwy - нечемний
+nieszczery - нещирий
+nielojalny - нелояльний
+samolubny - самолюбний
+niesprawiedliwy - несправедливий
+sponsorowany - спонсорований
+uzależniający - що спричиняє залежність
+niedokładny - неточний
+obiektywny - об'єктивний
+antywirusowy - противірусний
+multimedialny - мультимедійний
+wirtualny - віртуальний
+interaktywny - інтерактивний
+oszczędny - заощадливий
+zbiorowy - спільний
+daleki - далекий
+umeblowany - вмебльований
+luksusowy - люксусовий
+opalony - засмаглий
+panoramiczny - панорамний
+komercyjny - комерційний
+skuteczny - ефективний
+efektywny - ефективний
+niespodziewany - несподіваний
+zabawny - забавний
+szokujący - шокуючий
+przestronny - просторий
+pomocny - помічний
+lojalny - лояльний
+bezpłatny - безкоштовний
+niedrogi - недорогий
+kosztowny - вартісний
+niezadowolony - незадоволений
+rozczarowany - розчарований
+fałszywy - фальшивий
+niedostępny - недоступний
+tłusty - жирний
+spragniony - спрагнений
+gazowany - газований
+przypalony - пригорілий
+krwisty - з кров'ю
+najedzony - що наївся
+liberalny - ліберальний
+finansowy - фінансовий
+ryzykowny - ризикований
+dominujący - домінуючий
+delikatny - делікатний
+używany - вживаний
+konkurencyjny - конкурентний
+przemysłowy - промисловий
+zgniły - гнилий
+unikalny - унікальний
+optyczny - оптичний
+wymagający - вимогливий
+prawidłowy - правильний
+umięśniony - мускулистий
+dynamiczny - динамічний
+utalentowany - талановитий
+końcowy - кінцевий
+śmiały - сміливий
+pogrubiony - потовщений
+przegrany - переможений
+pokonany - переможений
+fanatyczny - прекрасний
+entuzjastyczny - завзятий
+surowy - суворий
+zdyskwalifikowany - дискваліфікований
+energiczny - енергійний
+niezdrowy - нездоровий
+zaraźliwy - заразливий, заразний
+głuchy - глухий
+bolesny - болісний
+udany - вдалий
+sztuczny - штучний
+etyczny - етичний
+geometryczny - геометричний
+trójkątny - трикутний
+prostokątny - прямокутний
+płynny - рідкий
+fizjologiczny - фізіологічний
+statystyczny - статистичний
+psychologiczny - психологічний
+psychiczny - психічний
+terapeutyczny - терапевтичний
+fundamentalny - основний
+potwierdzony - підтверджений
+słony - солоний
+gorzki - гіркий
+smaczny - смачний
+obrzydliwy - бридкий
+wędzony - копчений
+typowy - типовий
+lokalny - локальний, місцевий
+miejscowy - локальний, місцевий
+otyły - товстий
+alkoholowy - алкогольний
+wyleczony - що вилікувався
+pionowy - вертикальний
+gładki - гладенький
+klasyczny - класичний
+miejski - міський
+bezludny - безлюдний
+gigantyczny - величезний
+błyszczący - блискучий
+swobodny - невимушений
+wytatuowany - татуйований
+uroczysty - урочистий
+dramatyczny - драматичний
+teatralny - театральний
+tragiczny - трагічний
+muzyczny - музичний
+ekspresyjny - експресійний
+techniczny - технічний
+bezbarwny - безбарвний
+podkreślony - підкреслений
+satyryczny - сатиричний
+biograficzny - біографічний
+opisowy - показовий
+tematyczny - тематичний
+pasjonujący - захоплюючий
+pomysłowy - кмітливий
+sentymentalny - сентиментальний
+zdenerwowany - знервований
+niemądry - нерозумний
+zwariowany - безглуздий
+słynny - відомий
+rozebrany - роздягнутий
+szanowny - шановний
+sprytny - спритний
+niegazowany - негазований
+nieważny - неважливий
+taki jak - такий як
+zapracowany - завалений роботою
+używany - вживаний
+zużyty - використаний
+zamężna - заміжня
+szklany - скляний
+przestraszony - переляканий
+całkowity - цілковитий
+niezbędny - необхідний
+niepotrzebny - непотрібний
+zwykły - звичайний
+zaciekawiony - зацікавлений
+towarzyski - товариський
+odpowiedzialny - відповідальний
+nieodpowiedzialny - невідповідальний
+wspaniałomyślny - великодушний
+zdeterminowany - налаштований рішуче
+humorzasty - капризний
+przeszły - минулий
+miniony - минулий
+gospodarczy - економічний
+obudzony - що прокинувся
+elementarny - елементарний
+znakomity - прекрасний
+ruchomy - рухомий
+ponadpodstawowy - вище початкового
+systematyczny - систематичний
+pyszny - смачний
+niewiarygodny - неймовірний, несамовитий
+niesamowity - неймовірний, несамовитий
+faktyczny - фактичний
+klimatyczny - кліматичний
+nieciekawy - нецікавий
+bezdomny - безхатьченко
+ziołowy - трав'яний
+wewnętrzny - внутрішній
+błyskawiczny - блискавичний
+bierny - пасивний
+pasywny - пасивний
+tajemniczy - таємничий
+mieć szczęście - мати талан
+wdzięczny - вдячний
+zmartwiony - засмучений, зажурений
+stresujący - стресовий
+ufny - довірливий
+samotny - самотній
+urzędowy - офіційний
+niekompletny - неповний
+ważny - дійсний
+rolniczy - сільськогосподарський
+opanowany - врівноважений
+dobrze zbudowany - міцно збудований
+przepiękny - прекрасний
+medyczny - медичний
+obolały - що болить
+blady - блідий
+bezbolesny - безболісний
+zwyczajny - звичайний
+przepracowany - перетруджений
+niewyspany - невиспаний
+wykończony - сильно стомлений
+kobiecy - жіночий
+soczysty - соковитий
+taka sama - така ж сама
+potężny - міцний
+podekscytowany - піднесений
+ekskluzywny - особливий
+zeszły - минулий
+uroczy - чарівний, нівроку, непоганий
+śliczny - чарівний, нівроку, непоганий
+słodki - солоденький
+świetny - прекрасний
+przydatny - корисний
+znany - відомий
+zawodowy - професійний
+wzruszony - зворушений
+zakłopotany - заклопотаний
+sfrustrowany - стурбований
+poirytowany - знервований
+przerażony - переляканий
+znudzony - знуджений
+gościnny - гостинний
+spontaniczny - самостійний
+czarujący - чарівний
+zmieszany - зніяковілий
+zafascynowany - захоплений
+przedni - передній
+popularny - популярний
+uprawniony - наділений правом
+rozpieszczony - розпещений
+posłuszny - покірний
+niespokojny - неспокійний
+żywy - живий
+lekkomyślny - легковажний
+chętny - охочий
+hałaśliwy - галасливий
+nieposłuszny - неслухняний
+wykwalifikowany - кваліфікований
+tępy - тупий
+republikański - республіканський
+arystokratyczny - аристократичний
+szlachetny - шляхетний
+imperialny - імператорський
+totalitarny - тоталітарний
+dyktatorski - диктаторський
+lewicowy - лівий
+prawicowy - правий
+postępowy - прогресивний
+rewolucyjny - революційний
+umiarkowany - збалансований
+skrajny - крайній
+oskarżony - обвинувачений
+oskarżony - звинувачений
+skazany - засуджений
+niezawodny - що не підводить
+zimowy - зимовий
+letni - літній
+dzienny - денний
+nocny - нічний
+kolejny - черговий
+rozwlekły - розтягнутий
+trwały - тривалий
+wieczny - вічний
+stały - стабільний
+okresowy - періодичний
+kwartalny - квартальний
+sporadyczny - спонтанний
+starożytny - древній
+staromodny - старомодний
+przestarzały - застарілий
+bieżący - поточний
+dziecinny - дитячий
+łatwowierny - легковірний
+dojrzały - дорослий
+bezgraniczny - безлімітний, безмежний
+pobożny - набожний
+mistyczny - містичний
+boski - божий
+bezbożny - безбожний
+ateistyczny - атеїстичний
+świecki - світський
+niewierzący - що не вірує
+antysemicki - антисемітський
+poświęcić - присвятити
+mityczny - міфічний
+łatwowierny - довірливий
+ezoteryczny - езотеричний
+okultystyczny - окультний
+ziemski - земний
+pozaziemski - позаземний
+gwiezdny - зірковий
+gwiaździsty - зоряний
+globalny - глобальний, всесвітній
+ogólnoświatowy - глобальний, всесвітній
+spadzisty - шатровий дах
+pochyły - похилий
+stromy - крутий
+morski - морський
+skalisty - скелястий
+piaszczysty - піщаний
+błotnisty - болотистий
+przejrzysty - прозорий
+pustynny - пустельний
+deszczowy - дощовий
+wilgotny - вологий
+mglisty - туманний
+oblodzony - обледенілий
+lodowaty - льодяний
+zachmurzony - похмурий
+niezamieszkały - незаселений
+wojskowy - військовий
+żołnierski - солдатський
+nieunikniony - неуникний
+wrogi - ворожий
+bojowy - бойовий
+bezlitosny - нещадний
+nędzny - бідовий
+pokojowy - мирний
+pełen nadziei - повен надій
+chciwy - хтивий
+bogaty - багатий
+niewykwalifikowany - некваліфікований
+pożądany - жаданий
+niepożądany - небажаний
+lingwistyczny - лінгвістичний
+restrykcyjny - обмежений
+represyjny - репресивний
+urażony - ображений
+dyskryminujący - дискримінаційний
+wolny od uprzedzeń - неупереджений
+ojczysty - рідний
+szkodliwy - шкідливий
+duszący - затхлий
+jednorazowy - одноразовий
+trujący - отруйний
+zwrotny - зворотний
+nieszkodliwy - нешкідливий
+nadający się do przetworzenia - що піддається переробці
+prowokacyjny - провокуючий
+odnawialny - поновлюваний
+energooszczędny - енергозберігаючий
+potoczny - розмовний
+retoryczny - риторичний
+biegły - вправний
+kłótliwy - сварливий
+przekonujący - переконливий, переконуючий
+zniechęcający - знеохочуючий
+humorystyczny - гумористичний
+komunikatywny - комунікабельний
+gadatliwy - балакучий
+szczery - щирий
+lakoniczny - лаконічний
+melodramatyczny - мелодраматичний
+niewyraźny - невиразний
+wiarygodny - вірогідний
+czuły - ніжний
+namiętny - пристрасний
+szalony - шалений, божевільний
+niewierny - недовіркуватий
+męski - чоловічий
+oziębły - охололий
+zachwycony - захоплений
+sympatyczny - симпатичний
+szanowany - шанований
+przyzwoity - пристойний
+bezinteresowny - безкорисливий
+pobłażliwy - поблажливий
+słuszny - слушний
+wybuchowy - вибуховий
+złośliwy - злосливий
+próżny - марний
+snobistyczny - зневажливий
+zarozumiały - зарозумілий
+arogancki - зарозумілий
+podejrzliwy - підозрілий
+zawistny - зависливий
+mściwy - мстивий
+porywczy - поривистий
+nierówny - нерівний
+seksistowski - дискримінаційний
+morderczy - вбивчий
+impulsywny - імпульсивний
+bezlitosny - безжалісний
+barbarzyński - варварський
+bezprawny - безправний
+rozrywkowy - відпочинковий
+niewiarygodny - неймовірний
+stronniczy - тенденційний
+skomputeryzowany - комп'ютеризований
+analogowy - аналоговий
+supernowoczesny - суперсучасний
+wadliwy - з вадами, бракований, пошкоджений
+przestarzały - застарілий
+sprawny - вправний
+niesprawny - несправний
+niedbały - недбалий
+bezczynny - бездіяльний
+odległy - віддалений
+jaskrawy - яскравий
+poparzony przez słońce - обпечений на сонці
+pomysłowy - винахідливий
+wynalazczy - винахідливий
+dowcipny - дотепний
+komiczny - комічний
+mylący - що помиляється
+dwuznaczny - двозначний
+dobrze urządzony - добре складений
+dogodny - зручний
+stały - постійний
+zamożny - заможний
+ekstrawagancki - екстравагантний
+wyprzedany - розпроданий
+obojętny - байдужий
+jadalny - їстівний
+chudy - худий
+surowy - сирий
+rozgotowany - розігрітий
+niedogotowany - недоварений
+kapitalistyczny - капіталістичний
+chwiejny - хиткий
+skąpy - скупий
+firmowy - фірмовий
+kruchy - крихкий
+rozsądny - розумний, розсудливий
+promocyjny - промоційний
+mięsożerny - м'ясоїдний
+wszystkożerny - всеїдний
+żarłoczny - ненажерливий
+odporny - витривалий
+wyczerpujący - виснажливий
+zardzewiały - заіржавілий
+stopiony - плавлений
+monotonny - монотонний
+niewdzięczny - невдячний
+wyalienowany - відібраний, що пройшов відбір
+czasochłonny - загайний
+dochodowy - дохідний
+niedochodowy - неприбутковий
+przeludniony - переповнений
+chroniczny - хронічний
+cykliczny - циклічний
+zbyt wysoko opłacany - найвище оплачуваний
+nieokreślony - неозначений
+niezmordowany - незмучений
+gorączkujący - гарячкуючий
+pełen wigoru - повен наснаги
+giętki - гнучкий
+gibki - гнучкий
+zachęcający - заохочуючий
+przykładowy - зразковий
+poważny - важкий
+zasłużony - заслужений
+zakaźny - інфекційний
+uleczalny - виліковний
+nieuleczalny - невиліковний
+nabyty - набутий
+przygnębiony - пригнічений
+histeryczny - істеричний
+zaniepokojony - занепокоєний
+obłąkany - божевільний
+dalekowzroczny - далекоглядний
+krótkowzroczny - короткозорий
+uporczywy - наполегливий
+irracjonalny - безпідставний
+wątpliwy - недовірливий, сумнівний
+ratujący życie - життєрятівний
+zgodny - згодний
+kliniczny - клінічний
+sterylny - стерильний
+główny - головний
+drugorzędny - другорядний
+nieodwracalny - невідворотний
+odwracalny - зворотний
+parzysty - парний
+nieparzysty - непарний
+skończony - закінчений
+astronomiczny - астрономічний
+anatomiczny - анатомічний
+eksperymentalny - експериментальний
+stosowany - прикладний
+losowy - випадковий
+spektakularny - ефектний
+słodko-kwaśny - кисло-солодкий
+pieprzny - гострий
+apetyczny - апетитний
+bez smaku - без смаку
+prawdziwy - справжній
+domowej roboty - домашнього виготовлення
+nałogowy - компульсивний
+wychudzony - схудлий
+kościsty - костистий
+trzeźwy - тверезий
+płaski - плаский, плоский
+ogromny - величезний
+stalowy - стальний
+dźwiękoszczelny - звукоізоляційний
+wodoodporny - водонепроникний
+imponujący - імпонуючий
+dekoracyjny - декоративний
+ozdobny - оздобний
+średniowieczny - середньовічний
+podmiejski - приміський
+zamieszkany - заселений
+pusty - пустий
+opuszczony - покинутий
+odizolowany - ізольований
+jedwabny - шовковий
+aksamitny - оксамитовий
+puszysty - пушистий
+futerkowy - хутровий
+szorstki - жорсткий
+gładki - гладкий
+wytarty - потертий
+workowaty - мішкуватий
+dopasowany - підібраний
+rzucający się w oczy - що кидається в очі
+ludowy - народний
+natchniony - з натхненням
+błyskotliwy - блискучий
+gustowny - зі смаком
+zielonkawy - зеленкуватий
+białawy - білуватий
+czerwonawy - червонуватий
+niebieskawy - синюватий
+turkusowy - бірюзовий
+rozmyty - розмитий
+złożony - складений
+literacki - літературний
+fikcyjny - вигаданий
+legendarny - легендарний
+rymować - римувати
+podniecony - піднесений
+prawdopodobny - правдоподібний
+powierzchowny - поверхневий
+nieuprzejmy - неввічливий
+religijny - релігійний
+upiorny - жахливий
+kompletny - повний
+zbędny - зайвий
+wyluzowany - нестриманий, розпущений
+nierozsądny - нерозсудливий
+nieznaczny - незначний
+drobny - дрібний
+niewrażliwy - невразливий
+przenośny - переносний
+znaczący - значимий
+szpiczasty - пікоподібний
+łagodny - лагідний
+rzeczywisty - реальний
+oddzielny - окремий
+pochmurny - похмурий
+zacieniony - затінений
+niedoskonały - недосконалий
+zjednoczony - об'єднаний
+pośredni - непрямий
+tajny - таємний
+tępy - тупий
+nastoletni - підлітковий
+zewnętrzny - зовнішній
+potworny - жахливий
+zawstydzony - засоромлений
+przerażający - вражаючий
+obowiązkowy - обов'язковий
+wiejski - сільський
+tęgi - повний
+oszołomiony - приголомшений
+przeciętny - непримітний
+podarty - порваний
+zakurzony - запилений
+schludny - охайний
+niechlujny - нехлюй
+piegowaty - веснянкуватий
+chrupiący - хрумкий
+krzywy - кривий
+uchylony - відхилений
+nieogolony - неголений
+ogolony - поголений
+zaadresowany - адресований
+tuczący - висококалорійний
+nieskończony - безкінечний
+podejrzany - підозрюваний
+urodzinowy - на день народження
+powszechny - розповсюджений
+przyjemny - приємний
+zdumiewający - дивовижний
+poruszony - зворушений
+położony - що простягається
+bezczelny - безсоромний
+lekceważący - зневажливий
+faszystowski - фашистський
+jednoczesny - одночасний
+potencjalny - потенційний
+dziecinny - інфантильний
+infantylny - інфантильний
+buntowniczy - бунтівний
+sparaliżowany - паралізований
+pogański - язичницький
+pokorny - покірний
+muzułmański - мусульманський
+pagórkowaty - горбистий
+przybrzeżny - прибережний
+duszny - спекотний
+śmiercionośny - смертоносний
+rzadko spotykany - який рідко зустрічається
+rakotwórczy - канцероген
+przeszywający - пронизливий
+ogłuszający - оглушливий
+pochlebny - похвальний
+szyderczy - глузливий
+małomówny - неговіркий
+obelżywy - образливий
+niemy - німий
+dopełniający - доповнюючий
+napalony - збуджений (сексуально)
+pożądliwy - хтивий
+pornograficzny - порнографічний
+rozwiązły - розпущений
+nikczemny - нікчемний
+zwodniczy - оманливий
+przebiegły - хитрий
+pogardliwy - зневажливий
+gniewny - гнівний
+ograniczony - обмежений
+szowinistyczny - шовіністичний
+gejowski - геївський
+ogłupiający - одурюючий
+niczym nieskrępowany - нічим не скований
+zamorski - заморський
+chwytliwy - такий, що привертає увагу
+nijaki - ніякий
+podświadomy - підсвідомий
+skandaliczny - скандальний
+zmienny - мінливий
+kapryśny - капризний
+wybredny - вередливий
+sycący - ситний
+tandetny - жалюгідний
+roślinożerny - травоїдні
+odporny - стійкий
+nieustraszony - безстрашний
+oddany - відданий
+wrodzony - вроджений
+dziedziczny - спадковий
+niskotłuszczowy - з низьким вмістом жиру
+sześcienny - шестигранний
+zakrzywiony - загнутий
+sprężysty - пружний
+wodoszczelny - водонепроникний
+rozciągnięty - розтягнений
+odczłowieczony - дегуманізований
+postrzępiony - потріпаний
+pognieciony - пом'ятий
+konwencjonalny - конвенційний
+niedoświetlony - недосвічений
+prześwietlony - пересвічений
+oklepany - заяложений
+ckliwy - дуже сентиментальний
+ponury - понурий
+pogrążony we śnie - занурений у сон
+sumienny - сумлінний
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+książka - книжка
+most - міст
+piłka - м'яч
+autobus - автобус
+zegar - годинник
+kanapa - диван
+miód - мед
+czekolada - шоколад
+kredka - кольоровий олівець
+list - лист
+klucz - ключ
+nóż - ніж
+księżyc - Місяць
+pióro - чорнильна ручка
+prezent - подарунок
+podarunek - подарунок
+długopis - ручка
+ołówek - олівець
+klej - клей
+torebka - сумка, сумочка
+krzesło - крісло
+lampa - лампа
+łóżko - ліжко
+obraz - картина
+balon - повітряна кулька
+mydło - мило
+chleb - хліб
+szklanka - склянка
+litera - буква
+co - що
+cukierek - цукерка
+świeczka - свічка
+pudełko - коробка
+flaga - прапор
+praca - робота
+słodycze - солодощі
+koszyk - корзина
+lalka - лялька
+nożyczki - ножиці
+portfel - гаманець
+wagon - вагон
+torba - сумка
+bransoletka - браслет
+mózg - мозок
+klatka - клітка
+kość - кістка
+guzik - ґудзик
+kieszeń - кишеня
+szuflada - шухляда
+lustro - дзеркало
+szafka - шафка
+notes - записник
+dywan - килим
+znaczek - марка
+wanna - ванна
+igła - голка
+krzyż - хрест
+bomba - бомба
+bagaż - багаж
+pamiątka - сувенір
+rzecz - річ
+strona - сторінка
+mąka - борошно
+dziura - діра, яма
+słownik - словник
+lek - ліки
+kamień - камінь
+mieszkanie - квартира
+coś - щось
+tort urodzinowy - торт на день народження
+smok - дракон
+dokument - документ
+papieros - сигарета
+dzwonek - дзвінок
+choinka - ялинка
+rano - ранок
+teść - тесть
+szwagier - швагер
+szwagierka - швагрова
+farby - фарби
+bukiet - букет
+żarówka - лампочка
+miotła - мітла
+rama - рама
+gałąź - гілка
+gniazdo - гніздо
+doniczka - горщик
+teczka - папка, портфель
+lizak - льодяник на паличці
+medal - медаль
+myszka - мишка
+kokarda - бантик
+wstążka - стрічка
+śruba - шуруп
+nitka - нитка
+syrop - сироп
+kursor - курсор
+bęben - барабан
+pieczarka - печериця
+globus - глобус
+linijka - лінійка
+kolczyki - кульчики
+gąbka - губка
+śmieci - сміття
+akwarium - акваріум
+pióro - пір'їна
+kaptur - капюшон
+kołnierz - комір
+żaluzje - жалюзі
+kominek - камін
+szafka - шафка
+światło - світло
+miejsce - місце
+hamulec - гальмо
+silnik - двигун
+kluczyki do samochodu - ключі від автомобіля
+materac - матрац
+płyta CD - диск CD
+klawisz - клавіша
+ziemia - земля
+lód - лід
+huśtawka - гойдалка
+dyplom - диплом
+produkt - продукт
+kieliszek - келих
+płot - паркан
+sejf - сейф
+łata - латка
+drabina - драбина
+narzędzie - інструмент
+młotek - молоток
+robot - робот
+miska - миска
+bandaż - бинт
+antybiotyk - антибіотик
+pasek - смужка
+rzeczownik - іменник
+nuta - нота
+karta - карта
+kartka pocztowa - поштова листівка
+pomnik - пам'ятник
+narkotyk - наркотик
+bałagan - безлад
+nieład - безлад
+stopień - сходинка
+meble - меблі
+dzwon - дзвін
+żel - гель
+worek - мішок
+skrzynia - скриня
+piórnik - пенал
+waga łazienkowa - вага
+patyk - палиця
+gumka do mazania - гумка
+lista - список
+kropla - крапля
+brama - ворота
+grzejnik - обігрівач
+rogalik - рогалик
+lusterko - дзеркальце
+farba - фарба
+zeszyt - зошит
+temperatura - температура
+zdanie - речення
+dysk - диск
+kontakt - контакт
+wkładać - вкладати
+kopia - копія
+optymista - оптиміст
+pesymista - песиміст
+separacja - сепарація
+poduszka - подушка
+palenie - паління
+zapałka - сірник
+rękawica kuchenna - кухонна рукавичка
+bańki mydlane - мильні бульбашки
+śrubokręt - викрутка
+bałwan - сніговик
+wachlarz - віяло
+klepsydra - клепсидра
+laptop - ноутбук
+gwizdek - свисток
+ciężarek - гантелька
+perkusja - ударна установка
+biustonosz - бюстгальтер
+stanik - бюстгальтер
+mop - моп
+worek na śmieci - мішок для сміття
+muszka - метелик
+wieszak - вішалка
+klamka - ручка
+pielucha - підгузок
+wiaderko - відерце
+paczka - пакунок
+klawiatura - клавіатура
+łuk - лук
+kula - куля
+lawa - лава
+zakładka do książki - закладка для книжок
+tron - трон
+dowód - доказ
+trumna - домовина
+grób - могила
+urna - урна
+krem przeciwzmarszczkowy - крем проти зморшок
+talizman - талісман
+amulet - амулет
+armata - гармата
+brak - відсутність
+rana - рана
+transparent - транспарант
+egzemplarz - примірник
+antena - антена
+skrzynka na listy - поштова скринька
+wtyczka - вилка
+ulotka - буклет
+zwracać rzecz - повертати річ
+ekspres do kawy - кавоварка
+patelnia - пательня
+ogrodzenie - огорожа
+upadek - падіння
+metka - бірка
+wałek - валик
+fajka - люлька
+obiekt - об'єкт
+zastrzyk - укол
+atom - атом
+kolumna - колона
+czepek kąpielowy - шапочка для плавання
+kurtyna - завіса
+czasopismo - журнал
+herbatnik - печиво до чаю
+zaproszenie - запрошення
+krzak - кущ
+formularz - бланк
+chusteczka higieniczna - гігієнічна хустинка
+horyzont - горизонт
+skrzynka - скринька, ящик
+blok - багатоквартирний будинок
+kij - палка
+łańcuch - ланцюг
+sznurek - шнурок
+hak - гачок
+spód - спід
+dno - дно
+tajemnica - таємниця
+kurz - пил
+pojemnik - контейнер
+piegi - веснянки
+żywopłot - живопліт
+pieczywo - хліб
+popielniczka - попільничка
+obroża - нашийник
+smycz - поводок
+atrament - чорнило
+pieczątka - печатка
+kostka lodu - кубик льоду
+wyjątek - виняток
+krawędź - край
+plik - файл
+obcas - каблук
+nauka - наука
+jakość - якість
+tym razem - цього разу
+rzeczy - речі
+zajęcia - заняття
+partia - партія
+prawo - право
+eksperyment - експеримент
+zdanie - думка
+zapach - запах
+metoda - метод
+peruka - перука
+tolerancja - толерантність
+pokolenie - покоління
+cygaro - сигара
+deska do prasowania - гладильна дошка
+lejek - лійка
+serwetka - серветка
+poszewka na poduszkę - наволочка
+koc - плед
+lampka nocna - нічник
+mnich - монах
+skuter - скутер
+żaglówka - вітрильник
+sernik - сирний пиріг
+doktor - доктор
+Jezus - Ісус
+impreza - вечірка, прийом
+przyjęcie - вечірка, прийом
+zasada - принцип
+wyraz - слово
+substancja - субстанція
+dinozaur - динозавр
+bombka - ялинкова кулька
+świecznik - свічник
+hamak - гамак
+latarka - ліхтарик
+kostka - кубик
+podkowa - підкова
+kompas - компас
+agrafka - шпилька
+spinacz - скріпка
+strzykawka - шприц
+żołądź - жолудь
+smyczek - смичок
+pisak - фломастер
+segregator - папка-сегрегатор
+śniadaniówka - контейнер для сніданку
+broszka - брошка
+zmiotka - щітка
+szufelka - совочок
+buda - буда
+haczyk - гачок
+pazur - кіготь
+płetwa - ласт
+ość - кістка
+sznurówka - шнурівка
+klamra - пряжка
+korale - коралі
+gumka do włosów - гумка для волосся
+żyrandol - люстра
+zasłona - штора
+kołpak - ковпак
+maska - капот
+wózek - візок
+śliniak - слинявчик
+butelka ze smoczkiem - пляшка з соскою
+kajdanki - наручники
+obiektyw - об'єктив
+latawiec - повітряний змій
+wyzwanie - виклик
+pamiątka - пам'ятка, згадка
+zwłoki - труп
+prochy - прах
+krucyfiks - розп'яття
+kielich - келих
+grad - град
+amunicja - амуніція
+nosze - ноші
+mieszanka - суміш
+siatka - сітка
+trofeum - приз
+kotwica - якір
+śpiwór - спальник
+naklejka - наліпка
+broszura - брошура
+eksponat - експонат
+chochla - черпак
+stodoła - стодола
+sztanga - штанга
+wiosło - весло
+siodło - сідло
+puchar - кубок
+laska - тростина
+kwas - кислота
+płyn - рідина
+wieżowiec - багатоповерховий будинок
+szmata - ганчірка
+szelki - підтяжки
+pasta - паста
+szpara - щілина
+proszek do pieczenia - порошок для печива
+wata - вата
+działo - артилерійська система
+lok - пасмо волосся
+tarka - тертка
+pył - прах
+kapsułka - капсулка
+domofon - домофон
+śruba - болт
+płatki kosmetyczne - косметичні диски
+nić dentystyczna - зубна нитка
+trzepaczka - вінчик
+korkociąg - штопор
+klakson - клаксон
+zmysł - відчуття
+tabela - список
+komórka - клітина
+chusteczka - хустина
+szczegół - деталь
+wartość - вартість, цінність
+nora - нора
+kolec - шип
+urządzenie - обладнання
+spiżarnia - комора
+cukierniczka - цукерничка
+błyszczyk - блиск для губ
+hulajnoga - самокат
+rewolucja - революція
+dziurkacz - діркопробивач
+cyrkiel - циркуль
+wędka - вудка
+łóżko piętrowe - кількаповерхове ліжко
+kropielnica - кропильниця
+rosa - роса
+spaliny - вихлопні гази
+szczątki - рештки
+materac dmuchany - надувний матрац
+strach na wróble - опудало
+kątownik - кутник
+kowadło - ковадло
+pręt - прут
+kula - куля, милиця
+kaftan bezpieczeństwa - гамівна сорочка
+sztandar - прапор
+wąż ogrodowy - садовий шланг
+pachołek - конус сигнальний
+szlifierka kątowa - шліфувальна машинка
+tablica korkowa - коркова дошка
+patyczki higieniczne - гігієнічні палички
+kaganiec - намордник
+szczypta - щіпка
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
+książka - книжка
+most - міст
+piłka - м'яч
+autobus - автобус
+zegar - годинник
+kanapa - диван
+miód - мед
+czekolada - шоколад
+kredka - кольоровий олівець
+list - лист
+klucz - ключ
+nóż - ніж
+księżyc - Місяць
+pióro - чорнильна ручка
+prezent - подарунок
+podarunek - подарунок
+długopis - ручка
+ołówek - олівець
+klej - клей
+torebka - сумка, сумочка
+krzesło - крісло
+lampa - лампа
+łóżko - ліжко
+obraz - картина
+balon - повітряна кулька
+mydło - мило
+chleb - хліб
+szklanka - склянка
+litera - буква
+co - що
+cukierek - цукерка
+świeczka - свічка
+pudełko - коробка
+flaga - прапор
+praca - робота
+słodycze - солодощі
+koszyk - корзина
+lalka - лялька
+nożyczki - ножиці
+portfel - гаманець
+wagon - вагон
+torba - сумка
+bransoletka - браслет
+mózg - мозок
+klatka - клітка
+kość - кістка
+guzik - ґудзик
+kieszeń - кишеня
+szuflada - шухляда
+lustro - дзеркало
+szafka - шафка
+notes - записник
+dywan - килим
+znaczek - марка
+wanna - ванна
+igła - голка
+krzyż - хрест
+bomba - бомба
+bagaż - багаж
+pamiątka - сувенір
+rzecz - річ
+strona - сторінка
+mąka - борошно
+dziura - діра, яма
+słownik - словник
+lek - ліки
+kamień - камінь
+mieszkanie - квартира
+coś - щось
+tort urodzinowy - торт на день народження
+smok - дракон
+dokument - документ
+papieros - сигарета
+dzwonek - дзвінок
+choinka - ялинка
+rano - ранок
+teść - тесть
+szwagier - швагер
+szwagierka - швагрова
+farby - фарби
+bukiet - букет
+żarówka - лампочка
+miotła - мітла
+rama - рама
+gałąź - гілка
+gniazdo - гніздо
+doniczka - горщик
+teczka - папка, портфель
+lizak - льодяник на паличці
+medal - медаль
+myszka - мишка
+kokarda - бантик
+wstążka - стрічка
+śruba - шуруп
+nitka - нитка
+syrop - сироп
+kursor - курсор
+bęben - барабан
+pieczarka - печериця
+globus - глобус
+linijka - лінійка
+kolczyki - кульчики
+gąbka - губка
+śmieci - сміття
+akwarium - акваріум
+pióro - пір'їна
+kaptur - капюшон
+kołnierz - комір
+żaluzje - жалюзі
+kominek - камін
+szafka - шафка
+światło - світло
+miejsce - місце
+hamulec - гальмо
+silnik - двигун
+kluczyki do samochodu - ключі від автомобіля
+materac - матрац
+płyta CD - диск CD
+klawisz - клавіша
+ziemia - земля
+lód - лід
+huśtawka - гойдалка
+dyplom - диплом
+produkt - продукт
+kieliszek - келих
+płot - паркан
+sejf - сейф
+łata - латка
+drabina - драбина
+narzędzie - інструмент
+młotek - молоток
+robot - робот
+miska - миска
+bandaż - бинт
+antybiotyk - антибіотик
+pasek - смужка
+rzeczownik - іменник
+nuta - нота
+karta - карта
+kartka pocztowa - поштова листівка
+pomnik - пам'ятник
+narkotyk - наркотик
+bałagan - безлад
+nieład - безлад
+stopień - сходинка
+meble - меблі
+dzwon - дзвін
+żel - гель
+worek - мішок
+skrzynia - скриня
+piórnik - пенал
+waga łazienkowa - вага
+patyk - палиця
+gumka do mazania - гумка
+lista - список
+kropla - крапля
+brama - ворота
+grzejnik - обігрівач
+rogalik - рогалик
+lusterko - дзеркальце
+farba - фарба
+zeszyt - зошит
+temperatura - температура
+zdanie - речення
+dysk - диск
+kontakt - контакт
+wkładać - вкладати
+kopia - копія
+optymista - оптиміст
+pesymista - песиміст
+separacja - сепарація
+poduszka - подушка
+palenie - паління
+zapałka - сірник
+rękawica kuchenna - кухонна рукавичка
+bańki mydlane - мильні бульбашки
+śrubokręt - викрутка
+bałwan - сніговик
+wachlarz - віяло
+klepsydra - клепсидра
+laptop - ноутбук
+gwizdek - свисток
+ciężarek - гантелька
+perkusja - ударна установка
+biustonosz - бюстгальтер
+stanik - бюстгальтер
+mop - моп
+worek na śmieci - мішок для сміття
+muszka - метелик
+wieszak - вішалка
+klamka - ручка
+pielucha - підгузок
+wiaderko - відерце
+paczka - пакунок
+klawiatura - клавіатура
+łuk - лук
+kula - куля
+lawa - лава
+zakładka do książki - закладка для книжок
+tron - трон
+dowód - доказ
+trumna - домовина
+grób - могила
+urna - урна
+krem przeciwzmarszczkowy - крем проти зморшок
+talizman - талісман
+amulet - амулет
+armata - гармата
+brak - відсутність
+rana - рана
+transparent - транспарант
+egzemplarz - примірник
+antena - антена
+skrzynka na listy - поштова скринька
+wtyczka - вилка
+ulotka - буклет
+zwracać rzecz - повертати річ
+ekspres do kawy - кавоварка
+patelnia - пательня
+ogrodzenie - огорожа
+upadek - падіння
+metka - бірка
+wałek - валик
+fajka - люлька
+obiekt - об'єкт
+zastrzyk - укол
+atom - атом
+kolumna - колона
+czepek kąpielowy - шапочка для плавання
+kurtyna - завіса
+czasopismo - журнал
+herbatnik - печиво до чаю
+zaproszenie - запрошення
+krzak - кущ
+formularz - бланк
+chusteczka higieniczna - гігієнічна хустинка
+horyzont - горизонт
+skrzynka - скринька, ящик
+blok - багатоквартирний будинок
+kij - палка
+łańcuch - ланцюг
+sznurek - шнурок
+hak - гачок
+spód - спід
+dno - дно
+tajemnica - таємниця
+kurz - пил
+pojemnik - контейнер
+piegi - веснянки
+żywopłot - живопліт
+pieczywo - хліб
+popielniczka - попільничка
+obroża - нашийник
+smycz - поводок
+atrament - чорнило
+pieczątka - печатка
+kostka lodu - кубик льоду
+wyjątek - виняток
+krawędź - край
+plik - файл
+obcas - каблук
+nauka - наука
+jakość - якість
+tym razem - цього разу
+rzeczy - речі
+zajęcia - заняття
+partia - партія
+prawo - право
+eksperyment - експеримент
+zdanie - думка
+zapach - запах
+metoda - метод
+peruka - перука
+tolerancja - толерантність
+pokolenie - покоління
+cygaro - сигара
+deska do prasowania - гладильна дошка
+lejek - лійка
+serwetka - серветка
+poszewka na poduszkę - наволочка
+koc - плед
+lampka nocna - нічник
+mnich - монах
+skuter - скутер
+żaglówka - вітрильник
+sernik - сирний пиріг
+doktor - доктор
+Jezus - Ісус
+impreza - вечірка, прийом
+przyjęcie - вечірка, прийом
+zasada - принцип
+wyraz - слово
+substancja - субстанція
+dinozaur - динозавр
+bombka - ялинкова кулька
+świecznik - свічник
+hamak - гамак
+latarka - ліхтарик
+kostka - кубик
+podkowa - підкова
+kompas - компас
+agrafka - шпилька
+spinacz - скріпка
+strzykawka - шприц
+żołądź - жолудь
+smyczek - смичок
+pisak - фломастер
+segregator - папка-сегрегатор
+śniadaniówka - контейнер для сніданку
+broszka - брошка
+zmiotka - щітка
+szufelka - совочок
+buda - буда
+haczyk - гачок
+pazur - кіготь
+płetwa - ласт
+ość - кістка
+sznurówka - шнурівка
+klamra - пряжка
+korale - коралі
+gumka do włosów - гумка для волосся
+żyrandol - люстра
+zasłona - штора
+kołpak - ковпак
+maska - капот
+wózek - візок
+śliniak - слинявчик
+butelka ze smoczkiem - пляшка з соскою
+kajdanki - наручники
+obiektyw - об'єктив
+latawiec - повітряний змій
+wyzwanie - виклик
+pamiątka - пам'ятка, згадка
+zwłoki - труп
+prochy - прах
+krucyfiks - розп'яття
+kielich - келих
+grad - град
+amunicja - амуніція
+nosze - ноші
+mieszanka - суміш
+siatka - сітка
+trofeum - приз
+kotwica - якір
+śpiwór - спальник
+naklejka - наліпка
+broszura - брошура
+eksponat - експонат
+chochla - черпак
+stodoła - стодола
+sztanga - штанга
+wiosło - весло
+siodło - сідло
+puchar - кубок
+laska - тростина
+kwas - кислота
+płyn - рідина
+wieżowiec - багатоповерховий будинок
+szmata - ганчірка
+szelki - підтяжки
+pasta - паста
+szpara - щілина
+proszek do pieczenia - порошок для печива
+wata - вата
+działo - артилерійська система
+lok - пасмо волосся
+tarka - тертка
+pył - прах
+kapsułka - капсулка
+domofon - домофон
+śruba - болт
+płatki kosmetyczne - косметичні диски
+nić dentystyczna - зубна нитка
+trzepaczka - вінчик
+korkociąg - штопор
+klakson - клаксон
+zmysł - відчуття
+tabela - список
+komórka - клітина
+chusteczka - хустина
+szczegół - деталь
+wartość - вартість, цінність
+nora - нора
+kolec - шип
+urządzenie - обладнання
+spiżarnia - комора
+cukierniczka - цукерничка
+błyszczyk - блиск для губ
+hulajnoga - самокат
+rewolucja - революція
+dziurkacz - діркопробивач
+cyrkiel - циркуль
+wędka - вудка
+łóżko piętrowe - кількаповерхове ліжко
+kropielnica - кропильниця
+rosa - роса
+spaliny - вихлопні гази
+szczątki - рештки
+materac dmuchany - надувний матрац
+strach na wróble - опудало
+kątownik - кутник
+kowadło - ковадло
+pręt - прут
+kula - куля, милиця
+kaftan bezpieczeństwa - гамівна сорочка
+sztandar - прапор
+wąż ogrodowy - садовий шланг
+pachołek - конус сигнальний
+szlifierka kątowa - шліфувальна машинка
+tablica korkowa - коркова дошка
+patyczki higieniczne - гігієнічні палички
+kaganiec - намордник
+szczypta - щіпка
+bardziej - більше
+bardzo - дуже
+bezpiecznie - спокійно
+blisko - близько, поряд
+boso - босоніж
+brzydko - негарно
+być może - може, можливо
+całkiem - досить
+całkowicie - цілком
+chyba - вірогідно, мабуть
+cicho - тихо
+ciemno - темно
+ciepło - тепло
+ciężko - тяжко, важко
+co drugi dzień - через день
+codziennie - щодня
+co miesiąc - щомісяця
+co tydzień - щотижня
+czasami - часом, іноді
+czasem - часом, іноді
+czemu - чому
+częściowo - частково
+często - часто
+daleko - далеко
+dawno temu - давно
+dlaczego - чому
+długo - довго
+dobrze - добре
+do góry - вгору
+dokąd - куди
+dokładnie - точно, якраз
+dół - низ
+dookoła - довкола, навколо
+dopiero - тільки, щойно
+dopóki - поки
+doprawdy - справді
+dość - досить
+do teraz - дотепе́р
+do tyłu - назад
+dwa dni temu - два дні тому
+dwa razy w tygodniu - двічі на тиждень
+dziennie - в день
+dziś - сьогодні
+dzisiaj - сьогодні
+dziś wieczorem - сьогодні ввечері
+fajnie - добре, прекрасно
+gdzie - де
+gdzie indziej - деінде
+gdziekolwiek - де завгодно
+gdzieś - десь
+generalnie - загально, загалом
+głęboko - глибоко
+głównie - головно
+gorąco - гаряче
+gorzej - гірше
+grzecznie - чемно
+idealnie - ідеально
+ile - скільки
+i tak dalej - і так далі
+jak - як
+jak długo - як довго
+jak tylko - як тільки
+jak zwykle - як завжди
+jasno - ясно
+jeśli - якщо
+jeszcze - ще
+jeszcze nie - ще не
+jeżeli - якщо
+jutro - завтра
+już - вже
+już nie - вже не
+kiedy - коли
+kiedykolwiek - коли-небудь
+kiedyś - колись
+kolorowo - кольорово
+krzywo - криво
+kursywą - курсивом
+ładnie - гарненько
+łatwo - легко
+lepiej - краще
+mało - мало
+między - між
+miło - приємно
+mniej - менше
+może - може, можливо
+na czas - вчасно
+nad - над, понад
+nadal - все ще, досі
+na dole - внизу
+nagle - зненацька
+na górze - нагорі
+najbardziej - найбільше
+najlepszy - найкращий
+najmniej - найменш
+najpierw - найперш
+na końcu - на краю
+na krótko - ненадовго
+naokoło - навколо
+na pewno - точно
+na początku - спочатку
+naprawdę - справді
+naprzeciwko - навпроти
+na razie - наразі
+na rogu - на розі
+na szczęście - на щастя
+natychmiast - негайно
+na wsi - на селі
+na zawsze - назавжди
+na zewnątrz - назовні
+na żywo - на живо
+nie - ні, не
+niech - нехай
+nieco - дещо
+niemal - майже
+niestety - на жаль
+nigdy - ніколи
+nigdzie - ніде
+nisko - низько
+obecnie - зараз
+obok - біля
+oczywiście - звісно
+od czasu do czasu - час від часу
+od rana do nocy - з ранку до ночі
+od razu - відразу
+od tej chwili - від цієї хвилини
+ogólnie - загально, загалом
+o północy - опівночі
+osobiście - особисто
+osobno - окремо, роздільно
+ostatnio - останнім часом
+o świcie - на світанку
+o zachodzie słońca - коли заходить сонце
+pewnego dnia - одного дня
+pięknie - красиво
+płynnie - вільно
+płytko - неглибоко
+po czym - по чому
+pod - під
+podczas - під час, часом
+pod koniec roku - під кінець року
+pod warunkiem, że - за умови, що
+pojutrze - післязавтра
+ponad - понад
+poniżej - нижче
+po południu - після обіду
+potem - потім
+poważnie - серйозно
+powoli - повільно
+poza godzinami szczytu - поза годинами пік
+poza sezonem - не в сезон
+później - пізніше
+późno - пізно
+prawdopodobnie - вірогідно, мабуть
+prawie - майже
+prawie nigdy - майже ніколи
+prosto - прямо
+przed - перед
+przedtem - до того
+przedwczoraj - позавчора
+przez chwilę - хвилинку
+przez długi czas - протягом довгого часу
+przez przypadek - випадково
+przy - при, біля
+przy okazji - при нагоді
+przysłówek - прислівник
+raczej - радше
+rano - вранці
+razem - разом
+raz na jakiś czas - час від часу
+raz w roku - раз у рік
+rzadko - рідко
+rzeczywiście - дійсно
+śmiertelnie - смертельно
+smutno - сумно
+spokojnie - спокійно
+świetnie - добре, прекрасно
+szczególnie - особливо
+szczegółowo - детально
+szczerze - щиро
+szeroko - широко
+szkoda - шкода
+szybko - швидко
+tak szybko jak - так швидко, як
+tam - там
+temu - тому
+teraz - зараз
+trudno - важко
+trzy razy dziennie - тричі на день
+tu - тут
+tutaj - тут
+warto - варто
+wcale - зовсім
+w ciągu dnia - протягом дня
+wciąż - все ще, досі
+w cieniu - в тіні
+w czasie - під час, часом
+wcześnie - рано
+wcześniej - раніше
+wcześniej czy później - рано чи пізно
+wczoraj - вчора
+w dół - вниз
+według - по
+we łzach - у сльозах
+wesoło - весело
+wewnątrz - всередині
+w górę - вгору
+wieczorem - ввечері
+w końcu - в кінці кінців, врешті
+wkrótce - незабаром
+właściwie - власне
+właśnie - саме
+właśnie tak - власне так
+w międzyczasie - тим часом
+w nadchodzących latach - у прийдешні роки
+w nocy - вночі
+w ogóle - взагалі
+wokół - навколо
+wokoło - довкола, навколо
+wolno - повільно
+w południe - в обід, в полудень
+w porę - вчасно
+w pośpiechu - поспіхом
+w przeciwnym razie - інакше
+w przeszłości - у минулому
+w słońcu - на сонці
+wśród - серед
+w środku - всередині
+w środku nocy - серед ночі
+wtedy - тоді
+w tej chwili - в цю хвилину
+w trakcie - під час
+w tym czasie - у той час
+w tym samym czasie - одночасно
+wygodnie - зручно
+wysoko - високо
+wystarczająco - достатньо
+wzajemnie - взаємно
+wzdłuż - вздовж
+za - за
+za - занадто
+za granicą - за кордоном
+za każdym razem - кожного разу
+zamiast - замість
+za minutę - через хвилину
+za moment - через хвильку
+za rogiem - за рогом
+zawsze - завжди
+zazwyczaj - зазвичай
+zbyt - надто
+z dala od - далеко від
+ze sobą - разом
+zimno - холодно
+źle - погано
+znów - знову
+znowu - знову
+z pamięci - з пам'яті
+z pewnością - звичайно
+z powodu - з приводу
+z przerwami - з перервами
+z przodu - спереду
+z przyjemnością - з задоволенням
+zrobiony - зроблений
+z tyłu - позаду, в кінці
+zupełnie - цілком, зовсім
+zwłaszcza - особливо
+rano - вранці
+po południu - після обіду
+wieczorem - ввечері
+zawsze - завжди
+często - часто
+nigdy - ніколи
+teraz - зараз
+dziś - сьогодні
+dzisiaj - сьогодні
+jutro - завтра
+ile - скільки
+dlaczego - чому
+kiedy - коли
+znowu - знову
+znów - знову
+codziennie - щодня
+nie - ні, не
+jak - як
+oczywiście - звісно
+może - може, можливо
+być może - може, можливо
+gdzie - де
+pod - під
+przed - перед
+za - за
+tu - тут
+tutaj - тут
+tam - там
+bardzo - дуже
+szybko - швидко
+warto - варто
+zrobiony - зроблений
+w południe - в обід, в полудень
+w nocy - вночі
+dziś wieczorem - сьогодні ввечері
+już - вже
+jeszcze nie - ще не
+czasem - часом, іноді
+czasami - часом, іноді
+wtedy - тоді
+wczoraj - вчора
+wcześniej - раніше
+zimno - холодно
+dobrze - добре
+później - пізніше
+co tydzień - щотижня
+długo - довго
+zbyt - надто
+raczej - радше
+szkoda - шкода
+chyba - вірогідно, мабуть
+prawdopodobnie - вірогідно, мабуть
+naprawdę - справді
+jeśli - якщо
+jeżeli - якщо
+fajnie - добре, прекрасно
+świetnie - добре, прекрасно
+ciemno - темно
+razem - разом
+ze sobą - разом
+nad - над, понад
+z tyłu - позаду, в кінці
+daleko - далеко
+blisko - близько, поряд
+ponad - понад
+najbardziej - найбільше
+wcale - зовсім
+wśród - серед
+przy - при, біля
+w dół - вниз
+jak długo - як довго
+wolno - повільно
+powoli - повільно
+mniej - менше
+miło - приємно
+temu - тому
+czemu - чому
+o północy - опівночі
+przez długi czas - протягом довгого часу
+na zawsze - назавжди
+podczas - під час, часом
+w czasie - під час, часом
+w tym samym czasie - одночасно
+dopóki - поки
+tak szybko jak - так швидко, як
+w końcu - в кінці кінців, врешті
+raz w roku - раз у рік
+raz na jakiś czas - час від часу
+dwa razy w tygodniu - двічі на тиждень
+trzy razy dziennie - тричі на день
+za każdym razem - кожного разу
+od czasu do czasu - час від часу
+w przeszłości - у минулому
+przedwczoraj - позавчора
+dwa dni temu - два дні тому
+przedtem - до того
+pojutrze - післязавтра
+wkrótce - незабаром
+potem - потім
+z dala od - далеко від
+płynnie - вільно
+na wsi - на селі
+poważnie - серйозно
+późno - пізно
+wcześnie - рано
+zazwyczaj - зазвичай
+co miesiąc - щомісяця
+całkiem - досить
+dość - досить
+z przyjemnością - з задоволенням
+nadal - все ще, досі
+wciąż - все ще, досі
+i tak dalej - і так далі
+na pewno - точно
+zwłaszcza - особливо
+za granicą - за кордоном
+obok - біля
+naprzeciwko - навпроти
+między - між
+wzdłuż - вздовж
+na górze - нагорі
+na dole - внизу
+jeszcze - ще
+jak zwykle - як завжди
+kiedykolwiek - коли-небудь
+ostatnio - останнім часом
+właśnie - саме
+przez chwilę - хвилинку
+prawie - майже
+niemal - майже
+najmniej - найменш
+w ogóle - взагалі
+generalnie - загально, загалом
+ogólnie - загально, загалом
+poniżej - нижче
+dół - низ
+z przodu - спереду
+na zewnątrz - назовні
+gdzieś - десь
+nigdzie - ніде
+gdzie indziej - деінде
+niestety - на жаль
+dookoła - довкола, навколо
+wokoło - довкола, навколо
+do góry - вгору
+w górę - вгору
+do tyłu - назад
+szczerze - щиро
+już nie - вже не
+cicho - тихо
+bezpiecznie - спокійно
+źle - погано
+nisko - низько
+wysoko - високо
+idealnie - ідеально
+bardziej - більше
+za - занадто
+najlepszy - найкращий
+lepiej - краще
+dopiero - тільки, щойно
+mało - мало
+dziennie - в день
+gorąco - гаряче
+gdziekolwiek - де завгодно
+gorzej - гірше
+prosto - прямо
+głęboko - глибоко
+łatwo - легко
+brzydko - негарно
+smutno - сумно
+ciepło - тепло
+pięknie - красиво
+ładnie - гарненько
+na początku - спочатку
+w ciągu dnia - протягом дня
+od rana do nocy - з ранку до ночі
+w środku nocy - серед ночі
+szczegółowo - детально
+na krótko - ненадовго
+w międzyczasie - тим часом
+na razie - наразі
+do teraz - дотепе́р
+od razu - відразу
+co drugi dzień - через день
+dawno temu - давно
+obecnie - зараз
+w tej chwili - в цю хвилину
+wcześniej czy później - рано чи пізно
+od tej chwili - від цієї хвилини
+za minutę - через хвилину
+po czym - по чому
+w cieniu - в тіні
+w słońcu - на сонці
+niech - нехай
+przysłówek - прислівник
+rzadko - рідко
+wystarczająco - достатньо
+ciężko - тяжко, важко
+wzajemnie - взаємно
+szczególnie - особливо
+dokąd - куди
+wokół - навколо
+naokoło - навколо
+osobiście - особисто
+za moment - через хвильку
+w pośpiechu - поспіхом
+właściwie - власне
+częściowo - частково
+właśnie tak - власне так
+przez przypadek - випадково
+rzeczywiście - дійсно
+głównie - головно
+na rogu - на розі
+w środku - всередині
+wewnątrz - всередині
+z pewnością - звичайно
+we łzach - у сльозах
+pod warunkiem, że - за умови, що
+na szczęście - на щастя
+nagle - зненацька
+według - по
+w trakcie - під час
+zupełnie - цілком, зовсім
+jak tylko - як тільки
+kiedyś - колись
+z powodu - з приводу
+przy okazji - при нагоді
+jasno - ясно
+osobno - окремо, роздільно
+płytko - неглибоко
+szeroko - широко
+wygodnie - зручно
+kolorowo - кольорово
+całkowicie - цілком
+natychmiast - негайно
+zamiast - замість
+trudno - важко
+poza godzinami szczytu - поза годинами пік
+poza sezonem - не в сезон
+o świcie - на світанку
+o zachodzie słońca - коли заходить сонце
+na czas - вчасно
+w porę - вчасно
+z przerwami - з перервами
+prawie nigdy - майже ніколи
+w tym czasie - у той час
+w nadchodzących latach - у прийдешні роки
+śmiertelnie - смертельно
+na żywo - на живо
+boso - босоніж
+kursywą - курсивом
+doprawdy - справді
+pod koniec roku - під кінець року
+na końcu - на краю
+nieco - дещо
+dokładnie - точно, якраз
+z pamięci - з пам'яті
+za rogiem - за рогом
+w przeciwnym razie - інакше
+najpierw - найперш
+pewnego dnia - одного дня
+krzywo - криво
+wesoło - весело
+grzecznie - чемно
+spokojnie - спокійно
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
